@@ -1,27 +1,33 @@
-from transformers import pipeline
+from nltk.sentiment import SentimentIntensityAnalyzer
 from database import get_session, Article
+import nltk
 
-# Load sentiment model (downloads on first run, ~500MB)
-sentiment_pipeline = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
+# Download VADER lexicon
+try:
+    nltk.data.find('vader_lexicon')
+except LookupError:
+    nltk.download('vader_lexicon')
+
+sia = SentimentIntensityAnalyzer()
 
 def analyze_sentiment(text):
-    """Analyze sentiment of text and return score (-1 to 1) and label"""
+    """Analyze sentiment using VADER"""
     if not text or len(text.strip()) == 0:
         return 0.0, "NEUTRAL"
     
-    # Limit text length (model works better on shorter inputs)
-    text = text[:512]
-    
     try:
-        result = sentiment_pipeline(text)[0]
-        label = result["label"]
-        score = result["score"]
+        scores = sia.polarity_scores(text)
+        compound = scores['compound']  # -1 to 1 score
         
-        # Convert to -1 to 1 scale
-        if label == "POSITIVE":
-            return score, "POSITIVE"
+        # Classify based on compound score
+        if compound >= 0.05:
+            label = "POSITIVE"
+        elif compound <= -0.05:
+            label = "NEGATIVE"
         else:
-            return -score, "NEGATIVE"
+            label = "NEUTRAL"
+        
+        return compound, label
     
     except Exception as e:
         print(f"Error analyzing sentiment: {e}")
@@ -31,20 +37,18 @@ def update_sentiment_scores():
     """Calculate sentiment for all articles without scores"""
     session = get_session()
     
-    # Get articles without sentiment scores
     articles = session.query(Article).filter(Article.sentiment_score == None).all()
     
-    print(f"Analyzing sentiment for {len(articles)} articles...")
+    print(f"Analyzing sentiment for {len(articles)} articles with VADER...")
     
     for i, article in enumerate(articles):
-        # Use title + description for sentiment (full content might be too long)
         text = f"{article.title} {article.description or ''}"
         score, label = analyze_sentiment(text)
         
         article.sentiment_score = score
         article.sentiment_label = label
         
-        if (i + 1) % 10 == 0:
+        if (i + 1) % 50 == 0:
             print(f"Processed {i + 1}/{len(articles)}")
     
     session.commit()

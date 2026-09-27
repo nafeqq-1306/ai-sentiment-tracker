@@ -119,3 +119,61 @@ for _, row in df_sorted.head(10).iterrows():
         st.markdown(f"Score: {row['sentiment_score']:.2f}")
         st.markdown(f"[Read →]({row['url']})")
         st.divider()
+
+
+# Detailed article browser
+st.divider()
+st.subheader("📚 Article Explorer")
+
+# Filter options
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    sentiment_filter = st.multiselect(
+        "Filter by sentiment:",
+        ["POSITIVE", "NEGATIVE", "NEUTRAL"],
+        default=["POSITIVE", "NEGATIVE", "NEUTRAL"]
+    )
+
+with col2:
+    source_filter = st.multiselect(
+        "Filter by source:",
+        df["source"].unique(),
+        default=df["source"].unique()[:5]  # Show top 5 by default
+    )
+
+with col3:
+    score_range = st.slider(
+        "Sentiment score range:",
+        -1.0, 1.0, (-1.0, 1.0)
+    )
+
+# Apply filters
+filtered_df = df[
+    (df["sentiment_label"].isin(sentiment_filter)) &
+    (df["source"].isin(source_filter)) &
+    (df["sentiment_score"] >= score_range[0]) &
+    (df["sentiment_score"] <= score_range[1])
+]
+
+# Show filtered count
+st.write(f"**Showing {len(filtered_df)} of {len(df)} articles**")
+
+# Display all filtered articles in a table
+st.dataframe(
+    filtered_df[[
+        "title", "source", "published_at", 
+        "sentiment_score", "sentiment_label"
+    ]].sort_values("published_at", ascending=False),
+    use_container_width=True,
+    height=500
+)
+
+# Option to export
+if st.button("📥 Show all details (expandable)"):
+    for idx, row in filtered_df.iterrows():
+        with st.expander(f"📄 {row['title'][:60]}... | {row['source']}"):
+            st.write(f"**Sentiment:** {row['sentiment_label']} ({row['sentiment_score']:.2f})")
+            st.write(f"**Published:** {row['published_at']}")
+            st.write(f"**Source:** {row['source']}")
+            st.markdown(f"[Read full article →]({row['url']})")
