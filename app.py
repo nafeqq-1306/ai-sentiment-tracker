@@ -16,13 +16,21 @@ st.sidebar.header("Controls")
 days_back = st.sidebar.slider("Show data from last N days:", 7, 90, 30)
 
 # Fetch data
-session = get_session()
-cutoff_date = datetime.utcnow() - timedelta(days=days_back)
-articles = session.query(Article).filter(Article.published_at >= cutoff_date).all()
-session.close()
-
-if not articles:
-    st.warning("No articles found. Run the scraper first!")
+try:
+    session = get_session()
+    cutoff_date = datetime.utcnow() - timedelta(days=days_back)
+    articles = session.query(Article).filter(Article.published_at >= cutoff_date).all()
+    session.close()
+    
+    if not articles:
+        st.error("No articles found. This app requires a local database.")
+        st.info("To use this app:")
+        st.write("1. Clone the repo: `git clone https://github.com/nafeqq-1306/ai-sentiment-tracker`")
+        st.write("2. Run locally: `python scraper.py` then `streamlit run app.py`")
+        st.stop()
+except Exception as e:
+    st.error(f"Database connection failed: {e}")
+    st.info("This app is designed to run locally with a local database. See GitHub for setup instructions.")
     st.stop()
 
 # Convert to DataFrame for analysis
@@ -409,3 +417,130 @@ try:
 except Exception as e:
     st.error(f"Could not generate forecast: {e}")
     st.write("Make sure you have run `python forecast_sentiment.py` first and have at least 10 days of data.")
+
+   # Topic Modeling Section
+st.divider()
+st.subheader("🔍 Topic Analysis (LDA)")
+
+try:
+    from topic_modeling import prepare_documents, build_lda_model, get_document_topics, display_topics
+    
+    with st.spinner("Building topic model..."):
+        documents, article_ids = prepare_documents()
+        lda_model, vectorizer, doc_term_matrix = build_lda_model(documents, n_topics=5)
+        doc_topic_dist = get_document_topics(lda_model, doc_term_matrix)
+    
+    # Display discovered topics
+    st.subheader("📌 Discovered Topics")
+    
+    feature_names = vectorizer.get_feature_names_out()
+    
+    for topic_id, topic in enumerate(lda_model.components_):
+        top_indices = topic.argsort()[-7:][::-1]
+        top_words = [feature_names[i] for i in top_indices]
+        
+        st.write(f"**Topic {topic_id}:** {', '.join(top_words)}")
+    
+    st.divider()
+    
+    # Company analysis by topic
+    st.subheader("🏢 Companies by Topic")
+    
+    companies = {
+        "OpenAI": ["openai", "chatgpt", "gpt"],
+        "Anthropic": ["anthropic", "claude"],
+        "Google": ["google", "gemini", "bard"],
+        "Meta": ["meta", "llama"],
+        "DeepMind": ["deepmind"],
+        "Microsoft": ["microsoft", "copilot"],
+    }
+    
+    n_topics = doc_topic_dist.shape[1]
+    topic_company_data = []
+    
+    for topic_id in range(n_topics):
+        company_counts = {company: 0 for company in companies}
+        
+        for idx, doc in enumerate(documents):
+            doc_lower = doc.lower()
+            dominant_topic = np.argmax(doc_topic_dist[idx])
+            
+            if dominant_topic == topic_id:
+                for company, keywords in companies.items():
+                    if any(kw in doc_lower for kw in keywords):
+                        company_counts[company] += 1
+        
+        total = sum(company_counts.values())
+        if total > 0:
+            for company, count in company_counts.items():
+                if count > 0:
+                    topic_company_data.append({
+                        "Topic": f"Topic {topic_id}",
+                        "Company": company,
+                        "Mentions": count,
+                        "Percentage": f"{(count/total)*100:.1f}%"
+                    })
+    
+    if topic_company_data:
+        company_df = pd.DataFrame(topic_company_data)
+        st.dataframe(company_df, use_container_width=True)
+        
+        # Visualization
+        company_pivot = company_df.pivot_table(
+            values='Mentions',
+            index='Company',
+            columns='Topic',
+            fill_value=0
+        )
+        
+        fig = go.Figure(data=[
+            go.Bar(name=col, x=company_pivot.index, y=company_pivot[col])
+            for col in company_pivot.columns
+        ])
+        fig.update_layout(
+            title="Company Mentions by Topic",
+            barmode='group',
+            height=400
+        )
+        st.plotly_chart(fig, use_container_width=True)
+    
+    st.divider()
+    
+    # Company sentiment by topic
+    st.subheader("💬 Company Sentiment by Topic")
+    
+    sentiment_by_topic = []
+    
+    for topic_id in range(n_topics):
+        for company, keywords in companies.items():
+            sentiments = []
+            
+            for idx, doc in enumerate(documents):
+                doc_lower = doc.lower()
+                dominant_topic = np.argmax(doc_topic_dist[idx])
+                
+                if dominant_topic == topic_id and any(kw in doc_lower for kw in keywords):
+                    article_id = article_ids[idx]
+                    session = get_session()
+                    article = session.query(Article).filter(Article.id == article_id).first()
+                    session.close()
+                    
+                    if article and article.sentiment_score is not None:
+                        sentiments.append(article.sentiment_score)
+            
+            if sentiments:
+                avg_sentiment = np.mean(sentiments)
+                sentiment_by_topic.append({
+                    "Topic": f"Topic {topic_id}",
+                    "Company": company,
+                    "Avg Sentiment": f"{avg_sentiment:.3f}",
+                    "Count": len(sentiments)
+                })
+    
+    if sentiment_by_topic:
+        sentiment_df = pd.DataFrame(sentiment_by_topic)
+        st.dataframe(sentiment_df, use_container_width=True)
+
+except Exception as e:
+    st.error(f"Could not generate topic analysis: {e}")
+    st.write("Make sure topic_modeling.py has been run successfully.") 
