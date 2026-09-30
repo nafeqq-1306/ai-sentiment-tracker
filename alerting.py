@@ -8,11 +8,11 @@ import json
 load_dotenv()
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 
-def get_sentiment_summary(hours_back=1):
-    """Get sentiment summary for last N hours"""
+def get_sentiment_summary(minutes_back=5):
+    """Get sentiment summary for last N minutes"""
     session = get_session()
-    cutoff = datetime.utcnow() - timedelta(hours=hours_back)
-    
+    cutoff = datetime.utcnow() - timedelta(minutes=minutes_back)
+
     articles = session.query(Article).filter(
         Article.scraped_at >= cutoff
     ).all()
@@ -33,10 +33,10 @@ def get_sentiment_summary(hours_back=1):
         'neutral': sum(1 for s in scores if -0.05 <= s <= 0.05)
     }
 
-def get_company_sentiment(company_keywords, hours_back=1):
+def get_company_sentiment(company_keywords, minutes_back=5):
     """Get sentiment for specific company"""
     session = get_session()
-    cutoff = datetime.utcnow() - timedelta(hours=hours_back)
+    cutoff = datetime.utcnow() - timedelta(minutes=minutes_back)
     
     articles = session.query(Article).filter(
         Article.scraped_at >= cutoff
@@ -63,22 +63,22 @@ def get_company_sentiment(company_keywords, hours_back=1):
     }
 
 def detect_changes_and_alert():
-    """Main alerting logic - compare last 24 hours to previous 24 hours"""
+    """Main alerting logic - compare last 5 minutes to previous 5 minutes"""
     
     print(f"[{datetime.utcnow()}] Running sentiment check...")
     
-    # Get current 24 hours
-    current = get_sentiment_summary(hours_back=24)
-    
+    # Get current 5 minutes
+    current = get_sentiment_summary(minutes_back=5)
+
     # Check if we have enough data
-    if not current or current['count'] < 5:
-        print(f"Insufficient current data ({current['count'] if current else 0} articles, need 5+)")
+    if not current or current['count'] < 1:
+        print(f"Insufficient current data ({current['count'] if current else 0} articles, need 1+)")
         return
-    
-    # Get previous 24 hours (48-24 hours ago)
+
+    # Get previous 5 minutes (10-5 minutes ago)
     session = get_session()
-    cutoff_current = datetime.utcnow() - timedelta(hours=24)
-    cutoff_previous = datetime.utcnow() - timedelta(hours=48)
+    cutoff_current = datetime.utcnow() - timedelta(minutes=5)
+    cutoff_previous = datetime.utcnow() - timedelta(minutes=10)
     
     articles_previous = session.query(Article).filter(
         Article.scraped_at.between(cutoff_previous, cutoff_current)
@@ -86,13 +86,13 @@ def detect_changes_and_alert():
     session.close()
     
     if not articles_previous:
-        print("No previous 24-hour data available")
+        print("No previous 5-minute data available")
         return
     
     scores_previous = [a.sentiment_score for a in articles_previous if a.sentiment_score is not None]
     
-    if not scores_previous or len(scores_previous) < 5:
-        print(f"Insufficient previous data ({len(scores_previous) if scores_previous else 0} articles, need 5+)")
+    if not scores_previous or len(scores_previous) < 1:
+        print(f"Insufficient previous data ({len(scores_previous) if scores_previous else 0} articles, need 1+)")
         return
     
     previous = {
@@ -104,8 +104,8 @@ def detect_changes_and_alert():
     change = current['avg_sentiment'] - previous['avg_sentiment']
     pct_change = (change / abs(previous['avg_sentiment'])) * 100 if previous['avg_sentiment'] != 0 else 0
     
-    print(f"Current (24h): {current['avg_sentiment']:.3f} ({current['count']} articles)")
-    print(f"Previous (24h): {previous['avg_sentiment']:.3f} ({previous['count']} articles)")
+    print(f"Current (5min): {current['avg_sentiment']:.3f} ({current['count']} articles)")
+    print(f"Previous (5min): {previous['avg_sentiment']:.3f} ({previous['count']} articles)")
     print(f"Change: {change:+.3f} ({pct_change:+.1f}%)")
     
     alerts = []
@@ -115,14 +115,14 @@ def detect_changes_and_alert():
         if change < 0:
             alerts.append({
                 'emoji': '🔴',
-                'title': 'Negative Sentiment Surge (24h)',
+                'title': 'Negative Sentiment Surge (5min)',
                 'message': f"Sentiment dropped {abs(change):.3f} points ({pct_change:.1f}%)\nCurrent: {current['avg_sentiment']:.3f} | Previous: {previous['avg_sentiment']:.3f}",
                 'details': f"Articles: {current['count']} | Negative: {current['negative']} | Neutral: {current['neutral']} | Positive: {current['positive']}"
             })
         else:
             alerts.append({
                 'emoji': '🟢',
-                'title': 'Positive Sentiment Surge (24h)',
+                'title': 'Positive Sentiment Surge (5min)',
                 'message': f"Sentiment improved {change:.3f} points ({pct_change:+.1f}%)\nCurrent: {current['avg_sentiment']:.3f} | Previous: {previous['avg_sentiment']:.3f}",
                 'details': f"Articles: {current['count']} | Positive: {current['positive']} | Neutral: {current['neutral']} | Negative: {current['negative']}"
             })
@@ -135,20 +135,20 @@ def detect_changes_and_alert():
     }
     
     for company_name, keywords in companies.items():
-        company_data = get_company_sentiment(keywords, hours_back=24)
-        if company_data and company_data['count'] >= 3:  # At least 3 articles
+        company_data = get_company_sentiment(keywords, minutes_back=5)
+        if company_data and company_data['count'] >= 1:
             if company_data['avg_sentiment'] < -0.3:
                 alerts.append({
                     'emoji': '⚠️',
-                    'title': f'{company_name} Negative Coverage (24h)',
-                    'message': f"Sentiment: {company_data['avg_sentiment']:.3f} | {company_data['count']} articles in last 24h",
+                    'title': f'{company_name} Negative Coverage (5min)',
+                    'message': f"Sentiment: {company_data['avg_sentiment']:.3f} | {company_data['count']} articles in last 5min",
                     'details': f"Latest: {company_data['articles'][0][:80] if company_data['articles'] else 'N/A'}"
                 })
             elif company_data['avg_sentiment'] > 0.3:
                 alerts.append({
                     'emoji': '✅',
-                    'title': f'{company_name} Positive Coverage (24h)',
-                    'message': f"Sentiment: {company_data['avg_sentiment']:.3f} | {company_data['count']} articles in last 24h",
+                    'title': f'{company_name} Positive Coverage (5min)',
+                    'message': f"Sentiment: {company_data['avg_sentiment']:.3f} | {company_data['count']} articles in last 5min",
                     'details': f"Latest: {company_data['articles'][0][:80] if company_data['articles'] else 'N/A'}"
                 })
     
