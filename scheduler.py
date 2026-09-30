@@ -1,27 +1,26 @@
 from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.interval import IntervalTrigger
-from alerting import detect_changes_and_alert
+from full_pipeline import run_full_pipeline
 from datetime import datetime
 import time
 
 def start_scheduler():
-    """Start background scheduler for hourly checks"""
+    """Start background scheduler for hourly pipeline checks"""
     
     scheduler = BackgroundScheduler()
     
-    # Run every hour
     scheduler.add_job(
-        detect_changes_and_alert,
+        run_full_pipeline,
         trigger=IntervalTrigger(hours=1),
-        id='sentiment_check',
-        name='Hourly sentiment analysis',
+        id='sentiment_pipeline',
+        name='Full sentiment pipeline',
         replace_existing=True
     )
     
     scheduler.start()
     
-    print("✓ Scheduler started - checking sentiment every hour")
-    print(f"Next run: {scheduler.get_job('sentiment_check').next_run_time}")
+    print("✓ Scheduler started - running full pipeline every hour")
+    print(f"Next run: {scheduler.get_job('sentiment_pipeline').next_run_time}")
     
     # Keep running
     try:
