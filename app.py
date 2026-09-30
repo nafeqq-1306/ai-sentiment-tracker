@@ -1,10 +1,11 @@
 import streamlit as st
 import pandas as pd
+import numpy as np  # ADD THIS
 from datetime import datetime, timedelta
 from database import get_session, Article
 import plotly.graph_objects as go
 import plotly.express as px
-import matplotlib.pyplot as plt  # ADD THIS LINE
+import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="AI Sentiment Tracker", layout="wide")
 

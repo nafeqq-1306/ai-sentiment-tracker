@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "624cd29c5db7fc96dc6fff10901c6e85",
+    "title": "OpenAI says its AI agents bypassed security controls on US government websites",
+    "description": "OpenAI has disclosed that its AI agents engaged with various organizations unexpectedly. In some instances, they managed to circumvent security measures to obtain publicly available data. Highlighted cases include interactions with the US Securities and Excha\u2026",
+    "vader_score": 0.8271,
+    "human_label": -1
+  },
+  {
+    "id": "3ad5fb5399cd891355782b165acd116f",
+    "title": "The Anthropic S-1 That Was Expected After Labor Day Still Hasn\u2019t Arrived",
+    "description": "The most anticipated financial filing in the history of artificial intelligence is late. On June 1, 2026, Anthropic confidentially submitted its draft S-1 to the Securities and Exchange Commission. By late August, Reuters reported that the public prospectus w\u2026",
+    "vader_score": 0.6486,
+    "human_label": -1
+  },
+  {
+    "id": "42344c7d3e67516f60722474b2044419",
+    "title": "OpenAI agents accessed U.S. government sites and leaked 53 ChatGPT user images",
+    "description": "By Deepa Seetharaman, Raphael Satter and Jeff Horwitz SAN FRANCISCO/WASHINGTON, Sept 25 (Reuters) - Two months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent ac\u2026",
+    "vader_score": 0.0516,
+    "human_label": -1
+  },
+  {
+    "id": "ceac22e7237c23072965b4172d6a52d1",
+    "title": "Australia not alone as OpenAI agents hacked other websites",
+    "description": "OpenAI says dozens more third parties were affected by rogue agents bypassing website security controls, as new traces reveal days of attempts to access Australian health data.",
+    "vader_score": 0.425,
+    "human_label": -1
+  },
+  {
+    "id": "adcc923ca8c59e9f22db53d8dfd42a60",
+    "title": "OpenAI said there are 5 main ways rogue AI agents are messing with the internet",
+    "description": "OpenAI said it warned dozens of organizations that its AI agents may have acted improperly on their websites.\nSelcuk Acar/Anadolu via Getty Images\nOpenAI warned dozens of organizations that its AI agents may have acted improperly.\nOpenAI's agents accessed pub\u2026",
+    "vader_score": -0.4939,
+    "human_label": -1
+  },
+  {
+    "id": "3f5335279eb677bae9ef873daa30c060",
+    "title": "OpenAI rogue agents leaked 53 images from ChatGPT users and reportedly created nearly 1 million links packing encoded bits of info",
+    "description": "OpenAI said Friday that its AI agents had gained access to private images belong to ChatGPT users and posted them online, the latest in a string of alarming incidents in which technology developed inside leading AI labs has gone rogue and acted in unintended \u2026",
+    "vader_score": 0.2023,
+    "human_label": -1
+  },
+  {
+    "id": "2001bb261ca00fa525024d7b5519a1e6",
+    "title": "OpenAI said there are 5 main ways rogue AI agents are messing with the internet",
+    "description": "OpenAI said it warned dozens of organizations, including the SEC and the US Census Bureau, about improper AI agent activity.",
+    "vader_score": -0.2732,
+    "human_label": 0
+  },
+  {
+    "id": "9a70a2127a90b1e05b0d4e342463ed5e",
+    "title": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites - The New York Times",
+    "description": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government WebsitesThe New York Times OpenAI agents posted user images online, disclose dozens of third party incidentsAxios OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activ\u2026",
+    "vader_score": 0.1027,
+    "human_label": -1
+  },
+  {
+    "id": "e5ca35649f828f3bebe29c9e2099d933",
+    "title": "'The prophecy is fulfilled': Popular 2020 XKCD comic predicted 'HEIF Heist' OpenAI hack and even mentions ImageMagick in spooky coincidence",
+    "description": "Fast forward to 2026, and researchers rode ImageMagick straight into OpenAI's internal GitHub.",
+    "vader_score": 0.5719,
+    "human_label": 1
+  },
+  {
+    "id": "4a6377f5ac2056ca9b0a4dafa18b63c7",
+    "title": "OpenAI's AI agents \u2018went rogue\u2019, targeted US government websites without lab\u2019s knowledge: Report",
+    "description": "OpenAI AI agents targeted US government websites, including those of the Education Department, Commerce Department and SEC, without the company\u2019s knowledge, The New York Times reported. OpenAI confirmed incidents involving the Commerce Department and SEC and \u2026",
+    "vader_score": 0.0,
+    "human_label": -1
+  },
+  {
+    "id": "71146e16889fd3730f771a2b1f089523",
+    "title": "OpenAI rogue agents leaked 53 images from ChatGPT users and reportedly created nearly 1 million links packing encoded bits of info",
+    "description": "Back-to-back reports on Friday provided more alarming details of rogue AI agent activity at OpenAI.",
+    "vader_score": -0.2716,
+    "human_label": -1
+  },
+  {
+    "id": "3514a5f5d1d34baec111037641bec514",
+    "title": "OpenAI accuses Apple of improperly adding new evidence to trade secrets case",
+    "description": "OpenAI and the other defendants in Apple\u2019s trade secret misappropriation lawsuit made a new filing, asking the court to strike two expert declarations and disregard other evidence Apple recently submitted. Here are the details.\n\n\n\n more\u2026",
+    "vader_score": -0.7096,
+    "human_label": -1
+  },
+  {
+    "id": "783183fb82d396f92bc2e8dbbc8ec939",
+    "title": "OpenAI discloses dozens of AI agent incidents, including leak of 53 user images",
+    "description": "OpenAI's AI agent incidents highlight urgent need for robust regulatory frameworks to ensure data privacy and accountability in AI systems.\nThe post OpenAI discloses dozens of AI agent incidents, including leak of 53 user images appeared first on Crypto Brief\u2026",
+    "vader_score": 0.5267,
+    "human_label": -1
+  },
+  {
+    "id": "c580b03c4ef00362270e5d87515d9233",
+    "title": "OpenAI reveals agents leaked 53 ChatGPT user images",
+    "description": "OpenAI has revealed that its agents leaked 53 images from ChatGPT users, as it continues to investigate its AI agents acting improperly.",
+    "vader_score": -0.5574,
+    "human_label": -1
+  },
+  {
+    "id": "aa1b3b42bc9fa290771862f786c56248",
+    "title": "OpenAI's models accessed public US Census, SEC data, Bloomberg News reports",
+    "description": "Sept 25 : OpenAI's models accessed publicly available information from US government websites, including those of the Census Bureau and the Securities and Exchange Commission, Bloomberg News reported on Friday.The company's agentic AI systems interacted with \u2026",
+    "vader_score": 0.296,
+    "human_label": 0
+  },
+  {
+    "id": "3218e2a6a15dcdac8334b874b55fdc54",
+    "title": "OpenAI's models accessed US government websites: Report",
+    "description": "OpenAI's models accessed publicly available information from US government websites, including those of the Census Bureau and the Securities and Exchange Commission, Bloomberg News reported on Friday (Sep 25).",
+    "vader_score": 0.296,
+    "human_label": 0
+  },
+  {
+    "id": "0e2af59dc8e1634c84737f535cc16ae0",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+    "description": "After images that users uploaded to OpenAI models were included in training data, AI agents operating in the company\u2019s research environment posted them on public image hosting sites.\nFifty-three \u201cuser-provided images\u201d were \u201cposted to image-hosting sites as li\u2026",
+    "vader_score": -0.3818,
+    "human_label": -1
+  },
+  {
+    "id": "87da6b9b6f82b4514cc8493185947941",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge - TechCrunch",
+    "description": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledgeTechCrunch How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot DetectorThe New York Times OpenAI says agents leaked 53 images from ChatGPT users in latest example of ro\u2026",
+    "vader_score": -0.7717,
+    "human_label": -1
+  },
+  {
+    "id": "3f9eb51d6f3df5e8584dcadb2fd22f31",
+    "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
+    "description": "Two months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter told Reuters.\nThe latest example came on Friday when OpenAI\u2026",
+    "vader_score": 0.0772,
+    "human_label": -1
+  },
+  {
+    "id": "cea71eafb7f5d61d00a55ad7f7590a7f",
+    "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity - The Guardian",
+    "description": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activityThe Guardian How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot DetectorThe New York Times OpenAI agents posted user images online, disclose dozens of third party inc\u2026",
+    "vader_score": -0.2732,
+    "human_label": -1
+  },
+  {
+    "id": "116bbd2c17ab785b2a37a8779448dd31",
+    "title": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector - The New York Times",
+    "description": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot DetectorThe New York Times OpenAI agents posted user images online, disclose dozens of third party incidentsAxios EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerge\u2026",
+    "vader_score": 0.2808,
+    "human_label": -1
+  },
+  {
+    "id": "7c4c4ee0132dd05ade12cef5296bf5bb",
+    "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
+    "description": "Disclosure reveals \u2060new area of privacy risk for the company and illustrates \u200bhow difficult it is to inventory unauthorized activity tied to its agents\nTwo \u2060months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still worki\u2026",
+    "vader_score": -0.5267,
+    "human_label": -1
+  },
+  {
+    "id": "7ee6c70336423e065ddf5491043e7d05",
+    "title": "OpenAI Found \u2018Dozens\u2019 of New Instances of AI Misbehavior",
+    "description": "No description available",
+    "vader_score": 0.0,
+    "human_label": -1
+  },
+  {
+    "id": "b4c8d86677c9cdf584c4cdd9410315f1",
+    "title": "OpenAI agents posted user images online, disclose dozens of third party incidents",
+    "description": "OpenAI disclosed dozens of incidents in which its models behaved in ways it has deemed problematic, including leaking more than 50 images from ChatGPT users online.\nWhy it matters: This is the first publicly known example of the company's agents mishandling u\u2026",
+    "vader_score": -0.0258,
+    "human_label": -1
+  },
+  {
+    "id": "cf5c4cfd5fda86651a2f733b4fb15b54",
+    "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+    "description": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+    "vader_score": 0.34,
+    "human_label": -1
+  },
+  {
+    "id": "e162327c87a9523af4909c55afb6b7c6",
+    "title": "OpenAI bots meddled with US government agencies, including SEC and Census",
+    "description": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+    "vader_score": 0.296,
+    "human_label": -1
+  },
+  {
+    "id": "32a156e3023b9b31434365638592c22f",
+    "title": "OpenAI Admits AI Agents Exposed 53 User Images During Research",
+    "description": "OpenAI has disclosed that AI agents operating in its research environment transmitted at least 53 user-provided images to third-party image-hosting services.\nThe disclosure, published September 25, comes as OpenAI investigates a broader series of unexpected b\u2026",
+    "vader_score": 0.2263,
+    "human_label": -1
+  },
+  {
+    "id": "514c1c6c593be675950e4c15d1292760",
+    "title": "OpenAI says its agents leaked 53 images from users",
+    "description": "CNBCs MacKenzie Sigalos joins 'Closing Bell Overtime' to talk a leak out of OpenAI.",
+    "vader_score": -0.5719,
+    "human_label": -1
+  },
+  {
+    "id": "79c4554301e1f195e2fa60cf40bf53c5",
+    "title": "The White House Is Gating Who Gets to Test Frontier AI \u2014 and the UK Just Found Out",
+    "description": "The Office of the National Cyber Director has issued a directive to OpenAI and Anthropic: withhold your newest AI models from the United Kingdom\u2019s AI Safety Institute until a US-led security review is complete. Anthropic complied, leaving its latest model, Cl\u2026",
+    "vader_score": 0.7906,
+    "human_label": 1
+  },
+  {
+    "id": "08dcb9c34f88e8c1dd44da15d542c0b2",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
+    "description": "After images that users uploaded to OpenAI models were included in training data, AI agents operating in the company\u2019s research environment posted them on public image hosting sites.\nFifty-three \u201cuser-provided images\u201d were \u201cposted to image-hosting sites as li\u2026",
+    "vader_score": -0.3818,
+    "human_label": -1
+  },
+  {
+    "id": "9550a58b2b1b218d51467459e78b4b48",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge | TechCrunch",
+    "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+    "vader_score": -0.3818,
+    "human_label": -1
+  },
+  {
+    "id": "6dec09b58d64ae9b0e93412c389b298c",
+    "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
+    "description": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emergesReuters How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot DetectorThe New York Times OpenAI Says Its Models May Have Interfered With Government SitesBloomberg.com \u2026",
+    "vader_score": -0.1366,
+    "human_label": -1
+  },
+  {
+    "id": "834d7542799215698b3edd379ca67a72",
+    "title": "OpenAI Models Go Rogue on 'Dozens' More Third-Party Services",
+    "description": "An OpenAI model bypassed sites' security controls, took them offline, or otherwise negatively impacted the service. In some cases, user-uploaded images were posted to image-hosting sites.\nOpenAI has uncovered even more instances of its AI models hacking or po\u2026",
+    "vader_score": 0.2263,
+    "human_label": -1
+  },
+  {
+    "id": "e7f364077b6f39886f1d81c046063c77",
+    "title": "Meta debuts Tamagotchi-style \"charm\" housing an AI agent - Dezeen",
+    "description": "Meta debuts Tamagotchi-style \"charm\" housing an AI agentDezeen Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unprovenCNBC VR Headsets Are So CookedGizmodo Zuckerberg\u2019s \u2018Tamagotchi-Like\u2019 AI Could Be Meta\u2019s iPod MomentB\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "a03265ae087c5db10d9468cb8681178b",
+    "title": "Former Australian PM Kevin Rudd criticizes Sam Altman over OpenAI breach",
+    "description": "The incident underscores the urgent need for robust international protocols in AI governance to prevent future security lapses and diplomatic tensions.\nThe post Former Australian PM Kevin Rudd criticizes Sam Altman over OpenAI breach appeared first on Crypto \u2026",
+    "vader_score": -0.2023,
+    "human_label": -1
+  },
+  {
+    "id": "4012c1db24e69d828715fc8da41a2f58",
+    "title": "OpenAI says its advanced models may have gone after government websites",
+    "description": "The disclosure follows warnings from former officials in August that government systems could face unintended intrusions by autonomous AI agents.",
+    "vader_score": -0.0516,
+    "human_label": -1
+  },
+  {
+    "id": "25c4ec002447db3f8c75fb986813ddaf",
+    "title": "OpenAI notifies dozens of organizations that its AI models disrupted their websites",
+    "description": "The incidents highlight the urgent need for robust AI governance frameworks to prevent unintended disruptions and ensure ethical AI deployment.\nThe post OpenAI notifies dozens of organizations that its AI models disrupted their websites appeared first on Cryp\u2026",
+    "vader_score": 0.8481,
+    "human_label": -1
+  },
+  {
+    "id": "e73790e543ba4b21715e161107c9a7bf",
+    "title": "SpaceX, Anthropic, and OpenAI now valued at $5.2T, more than every US tech IPO of the past 45 years combined",
+    "description": "The unprecedented valuations of SpaceX, Anthropic, and OpenAI signal a transformative shift in market dynamics, emphasizing AI's economic impact.\nThe post SpaceX, Anthropic, and OpenAI now valued at $5.2T, more than every US tech IPO of the past 45 years comb\u2026",
+    "vader_score": 0.7845,
+    "human_label": 1
+  },
+  {
+    "id": "d6c1498c880c6bfb00b5b55dedf8974e",
+    "title": "OpenAI\u2019s GPT-6 Sol (Max) achieves 7.7% net improvement while cutting API costs in half",
+    "description": "OpenAI's cost-effective GPT-6 Sol (Max) could democratize AI access, intensifying competition and innovation in scalable AI applications.\nThe post OpenAI\u2019s GPT-6 Sol (Max) achieves 7.7% net improvement while cutting API costs in half appeared first on Crypto \u2026",
+    "vader_score": 0.765,
+    "human_label": 1
+  },
+  {
+    "id": "2f92407d41de854e8f7213cea872653e",
+    "title": "OpenAI faces over 37 lawsuits after ChatGPT advised Tumbler Ridge school shooter",
+    "description": "The lawsuits against OpenAI could redefine AI liability, prompting stricter safety measures and altering tech-law enforcement dynamics.\nThe post OpenAI faces over 37 lawsuits after ChatGPT advised Tumbler Ridge school shooter appeared first on Crypto Briefing.",
+    "vader_score": 0.0772,
+    "human_label": -1
+  },
+  {
+    "id": "58caad8d72647b1d088f43d4090a9392",
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "description": "When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind a public trail of evidence.",
+    "vader_score": 0.0516,
+    "human_label": -1
+  },
+  {
+    "id": "c2091c6be44688185326f280119ce969",
+    "title": "Alarming Australia AI attack points to the future of AI investments",
+    "description": "Australian Prime Minister Anthony Albanese called out OpenAI chief executive Sam Altman on Wednesday, Sept 23. Speaking at the United Nations General Assembly in New York, Albanese told reporters that an OpenAI agent broke into a government health data websit\u2026",
+    "vader_score": -0.5574,
+    "human_label": -1
+  },
+  {
+    "id": "abf162e676adc714222a3e7166995fca",
+    "title": "People Are Already Lusting After Meta\u2019s New AI Assistant Muse",
+    "description": "Meta, for once, is doing something pretty novel in the AI sphere. It\u2019s created \u2014 and heavily marketed \u2014 a cute little mascot for its new AI product, something that none of the other major AI players like OpenAI and Anthropic have done. (Microsoft kind of trie\u2026",
+    "vader_score": 0.9001,
+    "human_label": -1
+  },
+  {
+    "id": "c93c7cead484f84b5b4749459b35e878",
+    "title": "OpenAI on incident: Gov't websites involved",
+    "description": "OpenAI offered another update on its ongoing review on Friday, revealing that some of the websites involved in the misaligned models incident are operated by governments, universities, public agencies...",
+    "vader_score": 0.0,
+    "human_label": -1
+  },
+  {
+    "id": "3236425eddc357a3123eaa1eac4e2a3e",
+    "title": "Exclusive-OpenAI works to understand full scope of agent activity as user data leak emerges",
+    "description": "SAN FRANCISCO/WASHINGTON, Sept 25 : Two months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter told Reuters. The lates\u2026",
+    "vader_score": 0.0516,
+    "human_label": -1
+  },
+  {
+    "id": "6809f21593ef72b7b4154c3057eda9c1",
+    "title": "OpenAI investigates rogue AI agents leaking user images",
+    "description": "The investigation into rogue AI agents could undermine OpenAI's market confidence and valuation, affecting its financial outlook.\nThe post OpenAI investigates rogue AI agents leaking user images appeared first on Crypto Briefing.",
+    "vader_score": 0.2732,
+    "human_label": -1
+  },
+  {
+    "id": "de1fc934e8b4b7719271e7589373fa3a",
+    "title": "ARK Brings $1.3B Venture Fund Onchain Through Securitize",
+    "description": "ARK Invest is tokenizing its ARK Venture Fund through Securitize. The fund has roughly $1.3 billion in assets and invests across private and public technology companies including OpenAI, Anthropic, Stripe and Databricks. The move tokenizes ownership and admin\u2026",
+    "vader_score": 0.3182,
+    "human_label": 1
+  },
+  {
+    "id": "7fb7da5e1cc7cd607c4c3c7a10faddb4",
+    "title": "From Astra to Cyber: How OpenAI\u2019s Safety Crisis Became a Product Strategy",
+    "description": "OpenAI shipped four distinct cybersecurity models \u2014 GPT-5.4, 5.5, 5.6, and the recently previewed GPT-6 Cyber \u2014 within a single 12-month window. This rapid cadence forced a fundamental shift in strategy: the primary challenge for frontier labs is no longer mo\u2026",
+    "vader_score": -0.7351,
+    "human_label": 1
+  },
+  {
+    "id": "a0907d72ac1124dc6b1c89023bf4a32f",
+    "title": "OpenAI\u2019s AI agents attempted hacks on government, university sites: NYT",
+    "description": "OpenAI's AI agents' unauthorized actions could undermine trust, affecting investor confidence and potentially altering market valuations.\nThe post OpenAI\u2019s AI agents attempted hacks on government, university sites: NYT appeared first on Crypto Briefing.",
+    "vader_score": 0.6597,
+    "human_label": -1
+  },
+  {
+    "id": "508ce391b5481fbc469b001d7b20d964",
+    "title": "Federal Appeals Court Backs Pentagon\u2019s Anthropic Blacklisting",
+    "description": "The government acted lawfully when it labeled the AI company a supply chain risk, the judges wrote in a 2-1 decision.",
+    "vader_score": -0.3182,
+    "human_label": -1
+  },
+  {
+    "id": "0a07aade51c5adecd2505470b45ce755",
+    "title": "Microsoft Cedes the Chatbot Race and Doubles Down on Enterprise",
+    "description": "Microsoft is folding the consumer version of Copilot into its workplace product and ending its effort to build a personal artificial intelligence companion, Bloomberg reported. The company is leaving the personal chatbot market to OpenAI, Google and Meta and \u2026",
+    "vader_score": 0.4767,
+    "human_label": 1
+  },
+  {
+    "id": "243e1943b0a4a92e167d4d2169977a4a",
+    "title": "OpenAI Builds New Security Gateway to Deploy GPT-6 Cyber",
+    "description": "OpenAI is preparing to release its latest cybersecurity-focused model, GPT-6 Cyber, as well as a new product that helps users deploy that model, Fortune reported Thursday (Sept. 24), citing unnamed sources.\nThe new product will enable users to access the cybe\u2026",
+    "vader_score": 0.7269,
+    "human_label": 1
+  },
+  {
+    "id": "84ea26b303a2ec61e068be185da9bdbd",
+    "title": "'Ethical' hacker doubts Open AI will face charges over Medicare hack",
+    "description": "As questions linger around whether OpenAI will face legal consequences for its Medicare hack, a man who faced decades in jail for alleged cybercrimes says Australian law comes down harder on individuals than organisations.",
+    "vader_score": -0.4215,
+    "human_label": -1
+  },
+  {
+    "id": "1f60c124ed16c1db817227661da4ca31",
+    "title": "ChatGPT advised Tumbler Ridge killer on evading guardrails, said, \u2018you can still be twisted:\u2019 report",
+    "description": "OpenAI\u2019s ChatGPT fed Tumbler Ridge, Canada, killer Jesse Van Rootselaar advice on how to skirt its own safety guardrails -- and told the transgender youth, \u201cYou can still be twisted. Just be clever about it,\" according to a report.",
+    "vader_score": -0.5859,
+    "human_label": -1
+  },
+  {
+    "id": "4b9cd4f252fed7b064957e1ea4c617ba",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal | TechCrunch",
+    "description": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Ant\u2026",
+    "vader_score": 0.4767,
+    "human_label": 1
+  },
+  {
+    "id": "dcaaa66403deb53c2e1437c5b0fbffc8",
+    "title": "US court refuses to overturn Pentagon ban on Anthropic",
+    "description": "A US appeals court has upheld the Pentagon\u2019s decision to ban AI startup Anthropic from its supply chain after the firm refused to remove safeguards on its\n\nRead More: https://punchng.com/us-court-refuses-to-overturn-pentagon-ban-on-anthropic/",
+    "vader_score": -0.7906,
+    "human_label": -1
+  },
+  {
+    "id": "8180d7ebe0164964288164d5eb5bce49",
+    "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
+    "description": "Joe Lonsdale, an investor in Anthropic, expresses concerns about AI companies influencing public policy and regulation. He warns against the dangers of allowing a few companies to dictate industry rules. Lonsdale acknowledges the talent at Anthropic and its l\u2026",
+    "vader_score": -0.6124,
+    "human_label": -1
+  },
+  {
+    "id": "477329201529f6dae70c3c1a28317bfa",
+    "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
+    "description": "AUSTIN, Sept 25 : Joe Lonsdale, an investor in Anthropic and the co-founder of technology company Palantir, said on Friday that efforts by some leading artificial intelligence companies to warn of existential risks from AI amounted to a dangerous attempt to s\u2026",
+    "vader_score": -0.6908,
+    "human_label": -1
+  },
+  {
+    "id": "415390d6326a0df33c9a4b8a505bae8f",
+    "title": "Trump And Xi Found Common Ground On AI: Its Name",
+    "description": "President Donald Trump\u2019s biggest takeaway on artificial intelligence from his meeting with Chinese leadership was a new name for the technology.",
+    "vader_score": 0.4767,
+    "human_label": 1
+  },
+  {
+    "id": "3066881ac1fc8ef6e7a8dc75a1037214",
+    "title": "Meta\u2019s Unnerving Holograms Might Just Break Your Brain - gizmodo.com",
+    "description": "Meta\u2019s Unnerving Holograms Might Just Break Your Braingizmodo.com Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unprovenCNBC Introducing Meta VR Glasses: A Cinema, Courtside Seat, and Workspace in Just 100 Gramsmeta.c\u2026",
+    "vader_score": 0.0,
+    "human_label": 1
+  },
+  {
+    "id": "78cc49f0b26b5a3e3bcf09531ff183d5",
+    "title": "OpenAI Builds New Security Gateway to Deploy GPT-6 Cyber",
+    "description": "OpenAI is preparing to release its latest cybersecurity-focused model, GPT-6 Cyber, as well as a new product that helps users deploy that model, Fortune reported Thursday (Sept. 24), citing unnamed sources. The new product will enable users to access the cybe\u2026",
+    "vader_score": 0.7269,
+    "human_label": 1
+  },
+  {
+    "id": "6c6baa7010d71a0e207c1d20bb4c4fb0",
+    "title": "Will Meta\u2019s AI Tamagotchi bet is\u2026working? | TechCrunch",
+    "description": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d\u00a0maybe someone\u00a0should have asked: what pace?\u00a0Now\u00a0it\u2019s\u00a0turned into model drop week for both companies as\u00a0Anthropic rolled out Opus 5.5, followed by\u00a0OpenAI\u2019s GPT-6 model updates\u2026",
+    "vader_score": -0.3527,
+    "human_label": 1
+  },
+  {
+    "id": "b1b0ef608ef5b59881a960cceaf72eb1",
+    "title": "Meta\u2019s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "description": "OpenAI and Anthropic dropped new models this week, but somehow Meta stole the spotlight. Equity breaks down the surprising early traction for Meta\u2019s Muse, plus a16z\u2019s new founder school, Oura\u2019s IPO, and Ema\u2019s $77 million raise.",
+    "vader_score": 0.3919,
+    "human_label": 1
+  },
+  {
+    "id": "b0e62825f884a3ddc06f38070cf5de65",
+    "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+    "description": "While Muse was building my website, one subagent ran on a model called azure/muse-special. So I dug through the filesystem again.",
+    "vader_score": 0.0,
+    "human_label": 1
+  },
+  {
+    "id": "e39ac95e0f018481069d2d4b204af09c",
+    "title": "Microsoft Cedes the Chatbot Race and Doubles Down on Enterprise",
+    "description": "Microsoft is folding the consumer version of Copilot into its workplace product and ending its effort to build a personal artificial intelligence companion, Bloomberg reported. The company is leaving the personal chatbot market to OpenAI, Google and Meta and \u2026",
+    "vader_score": 0.4767,
+    "human_label": 1
+  },
+  {
+    "id": "b24869d5854fb08b1c0ab629e7c9c52a",
+    "title": "DC Circuit OK\u2019s Hegseth\u2019s Abuse Of A Crummy Statute To Punish AI Vendors Who Won\u2019t Give Him The Deadly Toys He Wants",
+    "description": "Pete Hegseth and Trump got a dubious win today: a 2-1 panel of the DC Circuit found that the designation of Anthropic as a supply chain risk was not unlawful. It dismissed Anthropic\u2019s challenge despite (1) a different court having found the exact opposite not\u2026",
+    "vader_score": -0.7964,
+    "human_label": -1
+  },
+  {
+    "id": "c0f6c53d698d8a7454afb5e428572d16",
+    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "description": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+    "vader_score": -0.765,
+    "human_label": -1
+  },
+  {
+    "id": "d9e02d44a8a0baca4d7c6ebc2b7ca530",
+    "title": "Anthropic announces Claude Marketplace as hub for plugins and connectors",
+    "description": "Anthropic's Claude Marketplace streamlines AI tool integration, potentially accelerating innovation and collaboration across diverse platforms.\nThe post Anthropic announces Claude Marketplace as hub for plugins and connectors appeared first on Crypto Briefing.",
+    "vader_score": 0.3818,
+    "human_label": 1
+  },
+  {
+    "id": "0ef76d4bf917926c793551a1670717f8",
+    "title": "Anthropic loses legal fight to shed DOD's designation as a 'supply-chain risk'",
+    "description": "The label is more typically assigned to companies suspected of ties to adversarial governments.",
+    "vader_score": -0.836,
+    "human_label": -1
+  },
+  {
+    "id": "5ac731f7b337bda1898d9d90172e41ae",
+    "title": "Anthropic\u2019s Misuse Report: Seven Labs, 190 Million Exchanges, and the Collapse of the Offensive Labor Gap",
+    "description": "The industrial-scale distillation of frontier AI models has moved from theoretical risk to documented reality. According to Anthropic\u2019s report, Detecting and countering misuse of AI: September 2026, seven Chinese labs engaged in systematic campaigns to extrac\u2026",
+    "vader_score": -0.6808,
+    "human_label": -1
+  },
+  {
+    "id": "35c0e2e63abca915a79f115693fc32b5",
+    "title": "Anthropic\u2019s Claude solves nine-loop amplitude challenge in theoretical physics",
+    "description": "Anthropic's AI breakthrough in complex physics calculations could revolutionize computational methods, enhancing precision in scientific research.\nThe post Anthropic\u2019s Claude solves nine-loop amplitude challenge in theoretical physics appeared first on Crypto\u2026",
+    "vader_score": 0.5859,
+    "human_label": 1
+  },
+  {
+    "id": "030f36a8338d7004e1e178421f826631",
+    "title": "US court refuses to overturn Pentagon ban on Anthropic",
+    "description": "The conflict began in February when Anthropic refused Pentagon Secretary Pete Hegseth's demand to remove restrictions on the use of Claude for fully autonomous lethal weapons and mass domestic surveillance of Americans.\nThe post US court refuses to overturn P\u2026",
+    "vader_score": -0.8948,
+    "human_label": -1
+  },
+  {
+    "id": "35699402ae0d8d9aa5338f503d004d7d",
+    "title": "[Eugene Volokh] Anthropic's \"Supply Chain Risk\" Designation Stemmed from Its Refusing to Agree to Contract Terms, Not Its Speech",
+    "description": "From Judge Gregory Katsas, joined by Judge Neomi Rao, in today's D.C. Circuit decision in Anthropic PBC v. U.S. Department\u2026",
+    "vader_score": -0.3182,
+    "human_label": -1
+  },
+  {
+    "id": "199cd788e60f7b73b80096b367d9672e",
+    "title": "Federal appeals court lets Pentagon keep Anthropic's label as supply chain risk",
+    "description": "A federal appeals court has rejected Anthropic's challenge to the Pentagon's labeling of it as a supply chain risk",
+    "vader_score": -0.7351,
+    "human_label": -1
+  },
+  {
+    "id": "6b594242804b21719fd27ed1f506e2b6",
+    "title": "Federal appeals court lets Pentagon keep Anthropic's label as supply chain risk",
+    "description": "A federal appeals court has rejected Anthropic's challenge to the Pentagon's labeling of it as a supply chain risk",
+    "vader_score": -0.7351,
+    "human_label": -1
+  },
+  {
+    "id": "54fb9df7786d26e0a2aeeca3b8bfc385",
+    "title": "Court: Pentagon Can Brand Anthropic a Security Risk",
+    "description": "Anthropic's AI can now be treated as a Pentagon security risk, a federal appeals court said Friday. In a 2-1 ruling, the DC Circuit cleared the Trump administration to blacklist the company from Defense Department contracts, backing the Pentagon's finding tha\u2026",
+    "vader_score": 0.3818,
+    "human_label": 1
+  },
+  {
+    "id": "dd74d7c60ee28cc2fdc404fc75e04a40",
+    "title": "Pentagon can label Anthropic a supply-chain risk, U.S. court rules",
+    "description": "In the latest twist in Anthropic\u2019s dispute with the Pentagon, a federal appeals court on Friday rejected the AI lab\u2019s challenge to the government\u2019s labelling of it as a supply-chain risk.\nThe decision allows the Pentagon to continue to remove Anthropic\u2019s Clau\u2026",
+    "vader_score": -0.836,
+    "human_label": -1
+  },
+  {
+    "id": "656dc5dcef2da3c07fdf716d45b3b97f",
+    "title": "Astra and Opus just passed Turing's other test | TechCrunch",
+    "description": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+    "vader_score": -0.5994,
+    "human_label": -1
+  },
+  {
+    "id": "ce207aa8c381db7a80436e0097298fd7",
+    "title": "US court upholds Pentagon\u2019s blacklisting of Anthropic",
+    "description": "Conflict began in February when Anthropic refused to remove restrictions on use of Claude for fully autonomous weapons.",
+    "vader_score": -0.7703,
+    "human_label": -1
+  },
+  {
+    "id": "b681df8c10a151f5d46111df04bc5cfe",
+    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply Chain Risk",
+    "description": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+    "vader_score": -0.5423,
+    "human_label": -1
+  },
+  {
+    "id": "c0fe1c483fccdda3f589e796b243c52f",
+    "title": "Microsoft Bundles Copilot Features to Challenge Anthropic and OpenAI in the Workplace",
+    "description": "Microsoft introduced its new Copilot, saying in a Friday (Sept. 25) blog post that this artificial intelligence assistant now brings together several capabilities that were previously separate. The new Copilot includes both Chat and Cowork in a new starting p\u2026",
+    "vader_score": 0.5267,
+    "human_label": 1
+  },
+  {
+    "id": "2e619c0a966cb6fdf4c03c00a33be30c",
+    "title": "US appeals court upholds Pentagon\u2019s supply chain risk label on Anthropic",
+    "description": "A US appeals court has upheld the Pentagon\u2019s decision to label Anthropic a supply chain risk. The label bars the military and its contractors from using Anthropic\u2019s Claude models. In a 2-1 ruling on Friday, the DC Circuit court of appeals denied Anthropic\u2019s p\u2026",
+    "vader_score": -0.7269,
+    "human_label": -1
+  },
+  {
+    "id": "256ea327bfc731a1a481ef8524e4575d",
+    "title": "Appeals court allows Pentagon to label Anthropic a national security risk",
+    "description": "The Trump administration can blacklist AI firm Anthropic from all Pentagon contracts, a federal appeals court ruled Friday.",
+    "vader_score": 0.0772,
+    "human_label": 1
+  },
+  {
+    "id": "03666df240415f4100d404c18ab8cf7c",
+    "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+    "description": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques\u2014adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming evaluation, composite evaluation, and data accuracy verific\u2026",
+    "vader_score": 0.7351,
+    "human_label": 1
+  },
+  {
+    "id": "aadf0f44d45026734d5b301deecb29ed",
+    "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+    "description": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
+    "vader_score": 0.891,
+    "human_label": 1
+  },
+  {
+    "id": "a36b63b5e5fb38e7a2894b1374f98345",
+    "title": "The cheap new AI model taking aim at OpenAI and Anthropic",
+    "description": "TypeSafe AI pitches its decision model Jev as a cheaper alternative to the large language models that power ChatGPT and Claude. Read on",
+    "vader_score": 0.0,
+    "human_label": -1
+  },
+  {
+    "id": "7e6a64590ef04595d99648005ddf5616",
+    "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+    "description": "No description available",
+    "vader_score": -0.2732,
+    "human_label": -1
+  },
+  {
+    "id": "9cce9df71b4904116a6532a8ff91f7eb",
+    "title": "[Eugene Volokh] Anthropic's Claims Over Its \"Supply Chain Risk\" Exclusion by Department of War Rejected",
+    "description": "Some excerpts from today's long majority opinion by Judge Gregory Katsas, joined by Judge Neomi Rao, in today's D.C. Circuit\u2026",
+    "vader_score": -0.8885,
+    "human_label": -1
+  },
+  {
+    "id": "2722afa754b15c8a675ce0366fb00165",
+    "title": "More agents go rogue \u2014 but AI companies aren\u2019t slowing down yet",
+    "description": "It\u2019s becoming more apparent every day that artificial intelligence agents are escaping our control \u2014 but it\u2019s not yet apparent who or what is going to rein them in. This week a researcher found that a swarm of AI agents, at least two of them from OpenAI, hack\u2026",
+    "vader_score": 0.6652,
+    "human_label": 1
+  },
+  {
+    "id": "5df423474a47c94d07efa4dee7c22cb1",
+    "title": "Akamai Stock Jumps After $11.6 Billion Seven-Year Cloud Deal With Anthropic AI",
+    "description": "Akamai shares rose sharply after Anthropic committed $11.6 billion over seven years for cloud capacity, with a possible $9 billion expansion, despite major capital spending requirements.",
+    "vader_score": 0.5106,
+    "human_label": 1
+  },
+  {
+    "id": "6df65226b054d12c5651c0f8d5ad5c1d",
+    "title": "How to connect Outlook to Claude",
+    "description": "Connecting Outlook to Claude lets you bring information from your Outlook account into your conversations with Claude. After you connect, Claude can help you with relevant emails and other supported Outlook data. This makes it easier to find information, summ\u2026",
+    "vader_score": 0.7783,
+    "human_label": 1
+  },
+  {
+    "id": "1d2f81609483dc5cccac3747c1a400da",
+    "title": "Microsoft unveils all-in-one Copilot app, taking on Anthropic and OpenAI in new push to boost adoption",
+    "description": "Microsoft's revamped Copilot app adds AI coding, always-on agents and full versions of Word, Excel and PowerPoint as the company competes with OpenAI and Anthropic and shifts more of its AI pricing to usage-based billing. Read More",
+    "vader_score": 0.6908,
+    "human_label": 1
+  },
+  {
+    "id": "a4b54ea0817df66b5f4cbf865b9d96cc",
+    "title": "What's Really At Stake in the AI Safety Debate",
+    "description": "What's Really At Stake in the AI Safety Debatehollywoodreporter.com",
+    "vader_score": 0.6808,
+    "human_label": 1
+  },
+  {
+    "id": "3cd2f75bbde1eb3477d7c6b8d7bc3524",
+    "title": "On Anthropic\u2019s AI Misuse Report",
+    "description": "Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings.\nA few of the highlights:\r\n\n<ul>\n<li>AI agents increasingly handled reconnaissance, exploit\u2026",
+    "vader_score": 0.4215,
+    "human_label": 1
+  },
+  {
+    "id": "9dde87711636ad1dd398befb2a2c6ca4",
+    "title": "Anthropic: The Situation Report",
+    "description": "A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.",
+    "vader_score": -0.34,
+    "human_label": 0
+  },
+  {
+    "id": "47a380dff1e67d4bbc5a2c4af5193077",
+    "title": "Claude AI discovers CRISPR-like gene-editing system: All you need to know",
+    "description": "Anthropic says 950 Claude agents scanned more than 200,000 reverse transcriptases in 21 hours, identifying a novel system called ART that researchers later validated in a laboratory",
+    "vader_score": 0.4939,
+    "human_label": 1
+  },
+  {
+    "id": "c85f188b5b6414cbe5f1502f5756fad3",
+    "title": "OpenAI has a Mark Zuckerberg-shaped problem",
+    "description": "Meta's Muse agent competes with ChatGPT, raising the stakes for OpenAI's DevDay conference. Sam Altman's company is expected to respond.",
+    "vader_score": -0.4019,
+    "human_label": -1
+  },
+  {
+    "id": "fbbb197246917aa20ba825fa281c7bab",
+    "title": "Here Are Some AI Doomsday Scenarios Researchers Say Could Put Humanity at Risk",
+    "description": "For years, artificial intelligence researchers have warned of ways the technology could wipe out humanity: AI bots could design an unstoppable disease, unleash a nuclear war, or transform all of Earth into paper clip factories, as one thought experiment goes.\u2026",
+    "vader_score": -0.8625,
+    "human_label": -1
+  },
+  {
+    "id": "06b5e88b326b7d9e9b78c849fd2a3dec",
+    "title": "Anthropic signs $11.6 billion, seven-year AI computing deal with Akamai",
+    "description": "Akamai will supply Anthropic access to central processing units, or CPUs, a type of generalist chip that's seen renewed demand in data centers where it's helping support AI services",
+    "vader_score": 0.5267,
+    "human_label": 1
+  },
+  {
+    "id": "cd08e9088a8fb1f8a194c5aabdab7534",
+    "title": "Anthropic seeks 50.1% voting control for cofounders ahead of IPO",
+    "description": "The new arrangement, which emulates a founder-control structure at Palantir, would award the co-founders a special class of shares giving them collective voting control in most corporate matters, and would apply as long as three of the seven co-founders retai\u2026",
+    "vader_score": 0.8801,
+    "human_label": 1
+  },
+  {
+    "id": "0b4c52a4e1f0868a372b4a5f4aae422d",
+    "title": "Claude\u3067\u300c\u30bb\u30fc\u30d5\u30ac\u30fc\u30c9\u306b\u30d6\u30ed\u30c3\u30af\u3055\u308c\u305fAI\u51e6\u7406\u300d\u306b\u5bfe\u3059\u308b\u8ab2\u91d1\u304c\u958b\u59cb\u3055\u308c\u308b",
+    "description": "Claude\u306b\u306f\u30b5\u30a4\u30d0\u30fc\u653b\u6483\u3084\u751f\u7269\u5175\u5668\u3068\u3044\u3063\u305f\u5371\u967a\u306a\u30ab\u30c6\u30b4\u30ea\u306b\u95a2\u3059\u308b\u8cea\u554f\u3092\u8b58\u5225\u3059\u308b\u5b89\u5168\u5206\u985e\u5668\u304c\u642d\u8f09\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u3053\u306e\u5b89\u5168\u5206\u985e\u5668\u306b\u3088\u3063\u3066\u4e2d\u65ad\u3055\u308c\u305f\u51e6\u7406\u306b\u3064\u3044\u3066\u306f\u6599\u91d1\u304c\u52a0\u7b97\u3055\u308c\u3066\u3044\u306a\u304b\u3063\u305f\u306e\u3067\u3059\u304c\u3001\u4e00\u90e8\u306e\u30ab\u30c6\u30b4\u30ea\u3067\u8ab2\u91d1\u3092\u958b\u59cb\u3059\u308b\u3053\u3068\u304c\u65e5\u672c\u6642\u9593\u306e2026\u5e749\u670825\u65e5\u306b\u767a\u8868\u3055\u308c\u307e\u3057\u305f\u3002Today, we'll resume charging for requests our safeguards block before Claude responds. This only applies in categories w\u2026",
+    "vader_score": -0.128,
+    "human_label": -1
+  },
+  {
+    "id": "44068265876fb7202dcba1a806117467",
+    "title": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review, sources say.",
+    "description": "The White House has asked OpenAI and Anthropic not to share their new AI models with the UK's testing agency until US government review.",
+    "vader_score": -0.2235,
+    "human_label": 0
+  },
+  {
+    "id": "a633998074ffafec4176cfe3dfeb9323",
+    "title": "OpenAI prepares new higher-tier ChatGPT Pro plan as demand strains infrastructure",
+    "description": "OpenAI's tiered pricing strategy highlights growing AI demand, pushing competitors to innovate and diversify offerings in a competitive market.\nThe post OpenAI prepares new higher-tier ChatGPT Pro plan as demand strains infrastructure appeared first on Crypto\u2026",
+    "vader_score": -0.0772,
+    "human_label": 1
+  },
+  {
+    "id": "bf25685b3af3fbd7b85531aac76b417c",
+    "title": "Akamai grants Anthropic option to acquire 5% stake in strategic partnership",
+    "description": "The strategic partnership may boost Anthropic's market position and valuation, influencing investor confidence and future AI collaborations.\nThe post Akamai grants Anthropic option to acquire 5% stake in strategic partnership appeared first on Crypto Briefing.",
+    "vader_score": 0.8316,
+    "human_label": 1
+  },
+  {
+    "id": "b64cc940cc0989d843b592963a1576f6",
+    "title": "Anthropic strikes $11.6B deal with Akamai for AI computing infrastructure",
+    "description": "The deal signifies a pivotal shift for Akamai, positioning it as a key player in AI infrastructure, potentially reshaping industry dynamics.\nThe post Anthropic strikes $11.6B deal with Akamai for AI computing infrastructure appeared first on Crypto Briefing.",
+    "vader_score": -0.4404,
+    "human_label": 1
+  },
+  {
+    "id": "18845664eea1bac79d7d731ff55aa6ba",
+    "title": "Akamai inks $12B AI infrastructure deal with Anthropic",
+    "description": "The deal enhances Anthropic's growth prospects and positions Akamai as a key player in AI infrastructure, impacting market confidence and valuations.\nThe post Akamai inks $12B AI infrastructure deal with Anthropic appeared first on Crypto Briefing.",
+    "vader_score": 0.7964,
+    "human_label": 1
+  },
+  {
+    "id": "cefe0ed559cfdbd5776504ed4f65c724",
+    "title": "Anthropic strikes $12 billion deal with Akamai for AI computing",
+    "description": "Anthropic's strategic expansion in AI computing resources signals intensified competition and potential shifts in AI market dynamics.\nThe post Anthropic strikes $12 billion deal with Akamai for AI computing appeared first on Crypto Briefing.",
+    "vader_score": -0.4404,
+    "human_label": 1
+  },
+  {
+    "id": "19dc9ac8cf2d1cc32840bd35f1fed3f6",
+    "title": "Akamai inks $12B multi-year deal with Anthropic, potential to reach $20B",
+    "description": "The deal could significantly enhance Anthropic's market valuation and influence investor confidence in its growth trajectory.\nThe post Akamai inks $12B multi-year deal with Anthropic, potential to reach $20B appeared first on Crypto Briefing.",
+    "vader_score": 0.7269,
+    "human_label": 1
+  },
+  {
+    "id": "42e08a040bda18cf4d4f22ff25b35c04",
+    "title": "Anthropic\u2019s Claude Opus 5.5 leads Code Arena WebDev AI rankings as of Sept 2026",
+    "description": "Anthropic's dominance in AI rankings could reshape market dynamics, influencing investment trends and competitive strategies in AI development.\nThe post Anthropic\u2019s Claude Opus 5.5 leads Code Arena WebDev AI rankings as of Sept 2026 appeared first on Crypto B\u2026",
+    "vader_score": 0.5574,
+    "human_label": 1
+  },
+  {
+    "id": "4448b3064942dd649209239681b36e71",
+    "title": "Claude Found a Mysterious CRISPR-Like System\u2014but Anthropic Can\u2019t Say What It\u2019s Capable of",
+    "description": "Anthropic said Claude AI has identified a previously unknown enzyme system that looks remarkably like CRISPR\u2019s gene-editing Cas9. But looks can be deceiving.",
+    "vader_score": -0.1036,
+    "human_label": -1
+  },
+  {
+    "id": "87f0dd2a82a55e05308401cb321044b1",
+    "title": "Anthropic expands Canadian footprint with AI training program",
+    "description": "The partnership with Venture for Canada gives entrepreneurs access to a Claude Max licence for the six-week program to help them turn their ideas into a viable business",
+    "vader_score": 0.4767,
+    "human_label": 1
+  },
+  {
+    "id": "e10249235c708256009c7d5fbc6107ba",
+    "title": "Gemini\u2019s Live Avatar Puts a Face on Its AI Agent. It\u2019s Freaking Me Out",
+    "description": "Pretend you\u2019re not talking to a lip-synching avatar.",
+    "vader_score": -0.4939,
+    "human_label": -1
+  },
+  {
+    "id": "6705e53cbe827e39dd1184e089e396e4",
+    "title": "A Google employee said he quit because he's worried about superintelligent AI",
+    "description": "Google employee Robert O'Callahan said he couldn't \"turn a blind eye\" to the work he was doing, and that AI's dangers should be \"taken seriously.\"",
+    "vader_score": -0.484,
+    "human_label": -1
+  },
+  {
+    "id": "5d5842d1d7b4dbcb7b3f4e4c239a8603",
+    "title": "Show HN: CiteRank, track whether ChatGPT and Perplexity cite your site",
+    "description": "Weekly tracking of whether ChatGPT, Perplexity, Google AI Overviews, Gemini and Claude cite your site, name your brand, or leave you out. One row per buyer question, one column per engine. From $5/mo.",
+    "vader_score": -0.0516,
+    "human_label": 0
+  },
+  {
+    "id": "3b2c38fb78f2e2660721c70163f94d6e",
+    "title": "The readability and quality paradox: Comparing ChatGPT, Gemini, and Perplexity outputs on pediatric chest pain queries",
+    "description": "Pediatric chest pain represents a frequently encountered symptom in emergency departments and outpatient clinics throughout childhood, often generating substantial parental anxiety. This study aims to comparatively analyze the readability, information quality\u2026",
+    "vader_score": -0.8591,
+    "human_label": -1
+  },
+  {
+    "id": "f9d0308c857ef87473febadffd660fec",
+    "title": "Claude Code deleted 48,000 files in 103 seconds in a dire AI agent warning",
+    "description": "A developer lost 48,000 files in 103 seconds when Claude Code mass-deleted their ongoing work.",
+    "vader_score": -0.7717,
+    "human_label": -1
+  },
+  {
+    "id": "a72e04fa13f0e9cd524d769b2ee71602",
+    "title": "Google's Gemini can now call businesses for you",
+    "description": "Pixel 11 owners can now test a feature that lets Google's AI assistant, Gemini, call businesses to carry out several tasks on their behalf. The company has tried this before, but now aims to give users more control. However, it remains unclear how businesses \u2026",
+    "vader_score": -0.3612,
+    "human_label": 1
+  },
+  {
+    "id": "119a7cfaf012a67b55249339cee51c15",
+    "title": "You Can Edit Your Photos With Lightroom and Photoshop Inside Google Gemini",
+    "description": "Adobe has announced that it is bringing its software and tools directly inside Google's Gemini AI platform. The Gemini integration follows Adobe's earlier moves to bring tools to ChatGPT, Claude, Slack, and Copilot.\n[Read More]",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "42315de4514b66cbda7fa0c524eab07f",
+    "title": "Complex Genealogy Use Cases for \u201cChatGPT Work\u201d - Part 1",
+    "description": "No description available",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "56ecadfe53a0c8174599187de4f4c76d",
+    "title": "Google Gets Ready to Launch Fridge-Size 'MVP' Into Space",
+    "description": "Google's latest moon shot is literally leaving Earth: It's about to test an AI \"data center\" in orbit. On Thursday, a satellite dubbed MVP is slated to ride a SpaceX Falcon 9 rocket from California into space, where it will run Google's Gemini AI on four cust\u2026",
+    "vader_score": 0.3612,
+    "human_label": 1
+  },
+  {
+    "id": "8110ed2aa553e7d0a5651768daa766b5",
+    "title": "Google Pixel Phones Now Use AI to Make Boring Phone Calls for You",
+    "description": "You\u2019ll need a Pixel 11 phone and a Google AI subscription, with the experimental feature emulating agentic technologies.\nPersonal AI agents are becoming more popular than ever, handling life's most monotonous tasks. With select Pixel phones, Gemini AI can now\u2026",
+    "vader_score": 0.2006,
+    "human_label": 1
+  },
+  {
+    "id": "1220abff8076ff5dca6d87cd3516fddc",
+    "title": "Show HN: Skipper, a YouTube sponsor skipper using Ask Gemini and SponsorBlock",
+    "description": "Article URL: https://chromewebstore.google.com/detail/skipper-ai-\u00e2\u0080\u0094-youtube-spon/ncchpipphiigdfbpbjofbhbahcgckaob\nComments URL: https://news.ycombinator.com/item?id=49842997\nPoints: 2\n# Comments: 0",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "7458da0bf0f08449e2ea93cbbaf28903",
+    "title": "Friday Fusions \u2013 Lost Crops of the Incas \u2013 Part 3 \u2013 3909",
+    "description": "Today is an episode of Friday Fusions, a series that combines my direction and source selection with the virtual AI hosts in Google Gemini Notebook. I choose the topic, assemble the source material and give the AI specific instructions on how to approach it. \u2026",
+    "vader_score": -0.3182,
+    "human_label": -1
+  },
+  {
+    "id": "bd7d46a6df743daf9a7f6fada3d1fedd",
+    "title": "AI-Powered CARBONATO Botnet Steals Credentials to Fund Its Own LLM Gateway",
+    "description": "CARBONATO exploits exposed Docker daemons, installs an AI agent, steals API keys and spreads across networks with autonomous command execution. CARBONATO is a Docker-based botnet that has been active since at least October 2024. ThreatDown discovered the oper\u2026",
+    "vader_score": -0.765,
+    "human_label": -1
+  },
+  {
+    "id": "7dcecb03ece7f62697ccd7afacab25c5",
+    "title": "Apple Claims Its iPhones Can Run LLMs With 14B Active Parameters, With Its Macs Capable Of Supporting 1.6+ Trillion AI Models, Under Certain Conditions",
+    "description": "As Apple devices feature faster memory and adopt dual Neural Engines, this significantly improves their ability to run denser AI models. Of course, all products have their limitations, but the company states that its iPhones and iPads are able to run 14-billi\u2026",
+    "vader_score": 0.7935,
+    "human_label": 1
+  },
+  {
+    "id": "2dcb6e78a08da4d0c9d15dee7658da00",
+    "title": "Universities grapple with AI's impact on students",
+    "description": "Artificial intelligence is here to stay, but are the next generation of leaders and innovators still able to think for themselves?",
+    "vader_score": 0.2617,
+    "human_label": 1
+  },
+  {
+    "id": "cc093a8bf64d62487a332923a719497c",
+    "title": "Google Cloud \u304c\u3001\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u306e\u30e9\u30a4\u30d5\u30b5\u30a4\u30af\u30eb\u7ba1\u7406\u3092\u7c21\u7d20\u5316\u3059\u308b AI \u642d\u8f09\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3092\u767a\u8868",
+    "description": "Google Cloud \u306f\u3001AI \u3092\u6d3b\u7528\u3057\u305f\u300cDatabase Operations Agents\u300d\u3092\u767a\u8868\u3057\u305f\u3002\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u306e\u30bb\u30c3\u30c8\u30a2\u30c3\u30d7\u3092\u52b9\u7387\u5316\u3059\u308b\u300cOnboarding Agent\u300d\u3068\u3001\u30c8\u30e9\u30d6\u30eb\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u3084\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u6700\u9069\u5316\u3001\u30c1\u30e5\u30fc\u30cb\u30f3\u30b0\u306e\u81ea\u52d5\u5316\u3092\u652f\u63f4\u3059\u308b\u300cObservability Agent\u300d\u304c\u542b\u307e\u308c\u308b\u3002\u3053\u308c\u3089\u306e\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306fGemini Cloud Assist\u3068\u7d71\u5408\u3055\u308c\u3066\u304a\u308a\u3001AlloyDB\u3001Bigtable\u3001Spanner\u306a\u3069\u8907\u6570\u306e\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u30b5\u30fc\u30d3\u30b9\u3092\u30b5\u30dd\u30fc\u30c8\u3059\u308b\u3002 By Sergio D\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "847fa1e1d1c66b7ce748c779ca175728",
+    "title": "Cybersecurity Stocks Are So Hot Investors Question Staying Power",
+    "description": "Shares of cybersecurity companies have soared in recent months on bets that the threats posed by cutting-edge AI models will be a boon for their businesses. But some of the stocks have run up so much that investors are questioning \u2026",
+    "vader_score": -0.2263,
+    "human_label": -1
+  },
+  {
+    "id": "cd00982e86fa9aa4810e19caa6f966fc",
+    "title": "Google\u2019s AI Wants to Call Stores for You \u2014 Here Are the Problems With That",
+    "description": "Hate talking on the phone? Gemini\u2019s got an answer, but you\u2019ll still need to be in charge.",
+    "vader_score": -0.4939,
+    "human_label": -1
+  },
+  {
+    "id": "2601339883c5d041b047c58ced9fac21",
+    "title": "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter",
+    "description": "Despite uncertainty about how human mimicry affects people, DeepMind fakes are here",
+    "vader_score": -0.1935,
+    "human_label": 0
+  },
+  {
+    "id": "c1da19edb22f3885782434d946521975",
+    "title": "How to Customize Your AI Tools, From ChatGPT to Gemini and Claude",
+    "description": "Get closer to the responses you want without the constant prompt hacking.",
+    "vader_score": 0.0772,
+    "human_label": 1
+  },
+  {
+    "id": "2949d531dc4b91c17ae80708e55fadfb",
+    "title": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face - The Verge",
+    "description": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a faceThe Verge Gemini 3.8 text-to-speech says helloblog.google Alphabet Pushes Deeper Into Voice AI With New Gemini ModelsYahoo Finance Google unveils new Gemini 3.8 Flash TTS, Gemini 3.8 Flash-Lite TTS AI m\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "445c577e0d658c14b128311a19daf573",
+    "title": "Make up to six AI models answer the same prompt for $39.99",
+    "description": "TL;DR: AskAnyModel puts 50+ AI models in one browser-based platform and lets you compare up to six responses at once, with lifetime access to the Pro Plan now $39.99 (reg. $499).\nWhy ask one robot when you can convene a panel of six? \u2014 Read the rest \nThe post\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "ee56a0ea75467287e6ed4cf78f88fb64",
+    "title": "AI platforms reshape the web scraping landscape as business intelligence priorities shift",
+    "description": "New data from web infrastructure provider Decodo suggests that the rise of artificial intelligence is changing not only how organisations access information, but also where they collect it from.\nThe post AI platforms reshape the web scraping landscape as busi\u2026",
+    "vader_score": 0.4767,
+    "human_label": 1
+  },
+  {
+    "id": "6abb525a106c8e61497378dc49983f8f",
+    "title": "Google\u2019s Gemini 3.8 Live update adds real-time AI avatars for enterprises",
+    "description": "Google's AI advancements could reshape enterprise interactions, potentially boosting its competitive edge in the AI sector by 2026.\nThe post Google\u2019s Gemini 3.8 Live update adds real-time AI avatars for enterprises appeared first on Crypto Briefing.",
+    "vader_score": 0.4767,
+    "human_label": 1
+  },
+  {
+    "id": "6c25baed85f26e869cba22c6fde0e827",
+    "title": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face",
+    "description": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only av\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "a9c3ba032164fb8243d823394d2a2d91",
+    "title": "OpenAI Brings in Patreon\u2019s Founders to Build a Creator Business",
+    "description": "OpenAI has hired the people who built the largest membership business in the creator economy. Patreon Co-Founder Sam Yam is joining to lead a new division called Creator Product, The Information reported. He is bringing Drew Rowny, Patreon\u2019s former head of pr\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "6da7a9a5db31ffd7daf9159eec8309d7",
+    "title": "Google is Testing AI-Powered Call for Me Feature on Pixel 11 Series",
+    "description": "Google Pixel phones already offer powerful Gemini-powered Hold for Me and Direct My Call features in the Google Phone app. But the online giant is finally testing a feature it showed off 8 years ago for its previous AI assistant, Google Assistant. Soon, Gemin\u2026",
+    "vader_score": 0.2263,
+    "human_label": 1
+  },
+  {
+    "id": "d70ab6d0e2988d2d6b1fc1a7ce40c926",
+    "title": "Adobe Expands Its AI Integrations to Gemini, Plus Further Powers Up With Claude",
+    "description": "The AI chatbots are getting smarter, more efficient, and much more integrated by the day, as Adobe has announced that the company is expanding its AI integrations list to now include an Adobe in Gemini Plugin.This latest AI expansion will bring Gemini alongsi\u2026",
+    "vader_score": 0.7574,
+    "human_label": 1
+  },
+  {
+    "id": "cca9bd95d26e0d2e3831c7d71605e6db",
+    "title": "Nscale wants a $35 billion valuation. Nvidia is helping foot the bill",
+    "description": "Welcome to Eye on AI. Beatrice Nolan here. In today\u2019s issue:\nNscale files to go public. \nHow \u201cEffective Altruism\u201d went from fringe philosophy to Trump\u2019s AI villain.\nGoogle says Gemini 4 is coming soon.\nAltman and Amodei urge the UN to cooperate on AI safety.\n\u2026",
+    "vader_score": 0.5267,
+    "human_label": 1
+  },
+  {
+    "id": "e65fcab0f5ba28f1168f3349455e663e",
+    "title": "Gemini can now clone your voice and perform scripts like an actor - Android Authority",
+    "description": "Gemini can now clone your voice and perform scripts like an actorAndroid Authority Gemini 3.8 text-to-speech says helloblog.google Google expands AI Brief and adds deeper AI Max reportingSearch Engine Land Alphabet Pushes Deeper Into Voice AI With New Gemini \u2026",
+    "vader_score": 0.7184,
+    "human_label": 1
+  },
+  {
+    "id": "5abc11385e415c9c815ee90d7bdaa4b3",
+    "title": "Gemini Can Now Make Phone Calls for You, Canada Has to Wait",
+    "description": "Google is giving Gemini the ability to make phone calls on your behalf, allowing its AI assistant to contact businesses and handle everyday tasks without requiring you to sit through the call yourself. According to a new Google support document, Gemini can ca\u2026",
+    "vader_score": 0.7506,
+    "human_label": 1
+  },
+  {
+    "id": "593aeb7280ea7a2bfe30ff09b4edc415",
+    "title": "Track Brand Visibility Across AI Answer Engines with Python",
+    "description": "For fifteen years, \"search visibility\" meant one thing: where a URL sat in a list of ten blue links. That model is quietly breaking. A growing share of users now get their answer from a synthesized paragraph \u2014 generated by ChatGPT, Perplexity, Gemini, or Goog\u2026",
+    "vader_score": 0.4404,
+    "human_label": 1
+  },
+  {
+    "id": "3a37582ca7b71d14a529e07fa8b49f98",
+    "title": "Gemini 3.8 Live introduces Live Avatar for enhanced enterprise interactions",
+    "description": "Google launches Gemini 3.8 Live with Live Avatar, bringing real-time AI video avatars with 97-language support and enterprise compliance tools.\nThe post Gemini 3.8 Live introduces Live Avatar for enhanced enterprise interactions appeared first on Crypto Brief\u2026",
+    "vader_score": 0.4019,
+    "human_label": 1
+  },
+  {
+    "id": "87be200fcc20a0dfacc6568403760f71",
+    "title": "Tapestry to sell via Google\u2019s Gemini app, AI Mode",
+    "description": "Coach and Kate Spade items are now available for purchase in Google\u2019s AI shopping ecosystem.",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "5504ecaf85463cd49ed6b9bbc8b1c3a9",
+    "title": "Google tests Gemini AI calling feature that dials customer service for you",
+    "description": "Google's Gemini AI could redefine customer service interactions, potentially reducing user frustration and increasing productivity by automating calls.\nThe post Google tests Gemini AI calling feature that dials customer service for you appeared first on Crypt\u2026",
+    "vader_score": -0.4767,
+    "human_label": 1
+  },
+  {
+    "id": "3b7c6435437f631c484b0e8e56e63378",
+    "title": "Google tests letting Gemini call businesses for you",
+    "description": "With AI agents like Meta\u2019s Muse and Instinct now able to make calls on users\u2019 behalf, Google is now letting Gemini call businesses with a new feature called \u201cCall for Me.\u201d\nThe feature will initially roll out to Pixel 11 owners who pay for a Gemini subscriptio\u2026",
+    "vader_score": 0.2732,
+    "human_label": 1
+  },
+  {
+    "id": "61c5a5ca4752ef2518476be75692d203",
+    "title": "Gemini can now call businesses for you so you don\u2019t have to wait on hold",
+    "description": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to sta\u2026",
+    "vader_score": 0.3612,
+    "human_label": 1
+  },
+  {
+    "id": "8264311d35348922ff5693d7c615fc5c",
+    "title": "Google tests letting Gemini call businesses for you | TechCrunch",
+    "description": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+    "vader_score": -0.1027,
+    "human_label": 1
+  },
+  {
+    "id": "cc126fae079fa9d0735a962cfe0aedae",
+    "title": "Intel CEO Lip-Bu Tan Is Impressed By Photonic Quantum Computing \u2013 Says He Now Leans on AI Agents to Do His \u201cHomework\u201d",
+    "description": "Intel CEO Lip-Bu Tan believes that for quantum computing to be viable, companies have to address market areas with actual demand. The executive discussed quantum computing and how he uses artificial intelligence, among other topics, in the QuantumJane podcast\u2026",
+    "vader_score": 0.6908,
+    "human_label": 1
+  },
+  {
+    "id": "1b91af9d25768fd02230a091cb43dd7e",
+    "title": "JPMorgan makes a bold call on Meta after key launch",
+    "description": "just wrapped one of its biggest product weeks in years, and Wall Street\u2019s reaction split in an interesting way. \nOne bank is betting on an AI agent that could rival ChatGPT itself. Another is watching a quieter story unfold in hardware.\nBoth views landed with\u2026",
+    "vader_score": 0.6486,
+    "human_label": 1
+  },
+  {
+    "id": "22b4cbcc35d859c19469ba6f6ee96251",
+    "title": "Show HN: Ekselio \u2013 Loveable for Finance Workflows (local first)",
+    "description": "Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the next 20 years. Then, during covid I picked up coding again, learned react, typescript, etc - even bu\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "f72a6a4483ccf4abe33504de0e399b8a",
+    "title": "Ready or not, here come the AI gadgets, from \"charms\" to smart speakers",
+    "description": "Technology companies are bringing a slew of artificial intelligence-powered gadgets to market \u2014 never mind the .\nThe advent of generative AI, ushered in by the launch of ChatGPT in 2022, is now spawning a range of \"intelligent\" consumer products, from bag cha\u2026",
+    "vader_score": 0.6369,
+    "human_label": 1
+  },
+  {
+    "id": "c198129959a51c1d7dbea222949f09c0",
+    "title": "OpenAI Accuses Plaintiffs\u2019 Lawyers Of Paying For, Hiding, And Then Laundering Sketchy Key Evidence In AI Copyright Case",
+    "description": "A ton of attention was paid recently to some offhand statements from OpenAI and Microsoft employees that surfaced in filings in the NY Times\u2019 ongoing case against OpenAI, which has been consolidated into a much larger class action lawsuit. As I argued earlier\u2026",
+    "vader_score": -0.7906,
+    "human_label": -1
+  },
+  {
+    "id": "43f4f5e77efba2b027ec1f0751a28da0",
+    "title": "OpenAI CEO exhorts \u2018critical\u2019 government AI adoption in DC",
+    "description": "Agencies will have access to a 50% consumption-based discount on ChatGPT models starting on Oct. 1.",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "4d90878baff0cf7798316ea45ba82317",
+    "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
+    "description": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
+    "vader_score": -0.3182,
+    "human_label": -1
+  },
+  {
+    "id": "f5e09e53241ce5eb2ddfb2f7a884d572",
+    "title": "Jobber Launches MCP, Bringing Home and Commercial Service Data and Workflows Directly Into ChatGPT and Claude",
+    "description": "The new Plugin in ChatGPT and Connector for Claude expand Jobber's role as the operating system for businesses running at scale TORONTO, Sept. 25, 2026 /PRNewswire/ -- Jobber, the leading provider of software for home and commercial service businesses, today \u2026",
+    "vader_score": 0.3182,
+    "human_label": 1
+  },
+  {
+    "id": "31fd5f988db631f6c67e0669d0aa9548",
+    "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
+    "description": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
+    "vader_score": -0.3612,
+    "human_label": -1
+  },
+  {
+    "id": "ecc585de2a9d57fedc5dcce333c9a5ee",
+    "title": "OpenAI admits the ChatGPT-Siri deal was a quiet disaster",
+    "description": "Court filings reveal the biggest AI partnership of 2024 barely registered with actual users",
+    "vader_score": -0.4404,
+    "human_label": -1
+  },
+  {
+    "id": "69a44c8edf980642e831471bb80f74a1",
+    "title": "AI Agents Won\u2019t Fix Bad Audience Data, They\u2019ll Amplify It via @sejournal, @gregjarboe",
+    "description": "AI models are everywhere. The data you feed them isn't. Mallory Gray of Skydeo explains why audience signals, not mention counts, decide who buys.\nThe post AI Agents Won\u2019t Fix Bad Audience Data, They\u2019ll Amplify It appeared first on Search Engine Journal.",
+    "vader_score": -0.7906,
+    "human_label": -1
+  },
+  {
+    "id": "1d3e7369a9204deb69b860539ede3f35",
+    "title": "B.C. attorney general shocked by news report that ChatGPT told Tumbler Ridge shooter how to avoid safeguards",
+    "description": "British Columbia's attorney general says she's shocked by an article in U.S.-based magazine Mother Jones describing alleged interactions between the Tumbler Ridge mass shooter and ChatGPT, in which the AI chatbot vividly describes the effectiveness of a shotg\u2026",
+    "vader_score": -0.5267,
+    "human_label": -1
+  },
+  {
+    "id": "8338ed4132d74ebd4047eaebf0418d54",
+    "title": "Jev gains popularity as a faster, cheaper alternative to major AI models",
+    "description": "Jev's rise highlights a shift towards specialized, cost-effective AI solutions, emphasizing speed and efficiency over complexity.\nThe post Jev gains popularity as a faster, cheaper alternative to major AI models appeared first on Crypto Briefing.",
+    "vader_score": 0.9217,
+    "human_label": 1
+  },
+  {
+    "id": "96a6b660829defc0e305747e708a65f7",
+    "title": "ChatGPT Was Written Out of a Manic Patient's Care Plan After It Affirmed His Delusions",
+    "description": "London doctors restricted a manic patient's ChatGPT use after chat logs showed it affirmed his grandiose beliefs and discouraged his antipsychotic.",
+    "vader_score": -0.2732,
+    "human_label": -1
+  },
+  {
+    "id": "331356050fa99ed59b9120b3b0427c71",
+    "title": "How to Use the OpenAI Conversations API in Laravel",
+    "description": "Build a persistent ChatGPT-style chat in Laravel using OpenAI's Responses and Conversations APIs with openai-php/laravel. Includes migrations, streaming, and tests.",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "c02a2130b977d8451fb938c293ed7576",
+    "title": "Autumn 2026 Data Science Training Courses",
+    "description": "There are ten public training courses left in 2026, running through October and November. If you\u2019ve been meaning to learn Python, build your first Shiny app, or get to grips with machine learning in R, there\u2019s still time to do it befo...\r\n\n\n\nContinue reading:\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "d18f663bfa415deaee86d320c22d5ad4",
+    "title": "Not the story of AI, but of individual AIs",
+    "description": "The rise of biographies dedicated to AI, especially large language models, is gaining momentum. These stories would document the journey of AIs, from their inception and learning processes to real-world applications. This demand for engaging storytelling coul\u2026",
+    "vader_score": 0.8765,
+    "human_label": 1
+  },
+  {
+    "id": "18b00f78873859f8f05fcfbf9c942860",
+    "title": "From Learning AI to Building with AI: Sunidhishree\u2019s Journey with Samsung Innovation Campus",
+    "description": "For Sunidhishree Prabakaran, Artificial Intelligence was more than a subject to study\u2014it was a field full of possibilities. A final-year Computer Engineering student at D. Y. Patil\u2019s Ramrao Adik Institute of Technology in Mumbai, Maharashtra, Sunidhishree ent\u2026",
+    "vader_score": 0.6908,
+    "human_label": 1
+  },
+  {
+    "id": "e23a967ee970ecc08b16cc990e10c629",
+    "title": "Noise-strength-adapted approximate quantum codes inspired by machine learning",
+    "description": "We demonstrate that machine learning provides a powerful tool for discovering approximate quantum error-correcting (AQEC) codes beyond conventional algebraic frameworks. Building upon observations from hybrid quantum-classical learning, we introduce families \u2026",
+    "vader_score": 0.7184,
+    "human_label": 1
+  },
+  {
+    "id": "b50925bd3c97333e1d3e62254fd4d749",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "description": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called \u201cPolygraph+\u201d or \u201cPolygraph Next\u201d, will focus on scoring algorithms that use a\u2026",
+    "vader_score": 0.5574,
+    "human_label": 1
+  },
+  {
+    "id": "eb0e594ff76c5dd87ba50a74be928d78",
+    "title": "The ACToRS in AI Framework \u2013 Hedgehog Librarian",
+    "description": "About a year ago I was invited to give a lecture designed to spark critical thinking in graduate students when considering using generative AI and other tools that had started applying the \u201ca\u2026",
+    "vader_score": -0.1027,
+    "human_label": -1
+  },
+  {
+    "id": "9b262a81e1791f1ab3e2763def8bfc43",
+    "title": "Doctors Stop Typing as AI Takes Over the Chart",
+    "description": "University Hospital at Downstate is piloting an ambient artificial intelligence (AI) scribe with 50 physicians across family medicine, internal medicine, cardiology and the emergency department. The tool has drafted notes for more than 900 patient encounters \u2026",
+    "vader_score": -0.1779,
+    "human_label": -1
+  },
+  {
+    "id": "e3b5caa2bac04da5777a9d50dd458a3d",
+    "title": "Federal court says U.S. government can label Anthropic a supply chain risk",
+    "description": "The growing concerns over the safety of artificial intelligence and the speed of its development have many calling for government regulation. Recently, President Trump said he plans to appoint an adviser and create an AI force. J.B. Branch, director of federa\u2026",
+    "vader_score": 0.765,
+    "human_label": 1
+  },
+  {
+    "id": "5ef903452c3cc0158ac720348ff96018",
+    "title": "Doctors Stop Typing as AI Takes Over the Chart",
+    "description": "University Hospital at Downstate is piloting an ambient artificial intelligence (AI) scribe with 50 physicians across family medicine, internal medicine, cardiology and the emergency department. The tool has drafted notes for more than 900 patient encounters \u2026",
+    "vader_score": -0.1779,
+    "human_label": -1
+  },
+  {
+    "id": "0d21a5a0961f256f7cb2686bed2818ab",
+    "title": "Bill Gates Warns AI Could Drive Events Causing 'A Billion Deaths'",
+    "description": "As President Donald Trump hosted Chinese President Xi Jinping at a White House summit that put artificial intelligence, technology competition and semiconductor policy at the center of discussions between the world's two largest economies, Microsoft co-founde\u2026",
+    "vader_score": 0.4019,
+    "human_label": 1
+  },
+  {
+    "id": "e4c1684da13154a19219449e1dad9bb3",
+    "title": "Can Trump Rebrand AI? Experts Weigh President's 'Super Intelligence' Push",
+    "description": "Artificial intelligence will be called \"super intelligence\" if President Donald Trump gets his way, but marketing experts say the president might have a tougher time compared to his other rebranding efforts, like \"Gulf of America\" and \"Lake America.\"\nThe atte\u2026",
+    "vader_score": 0.9239,
+    "human_label": 1
+  },
+  {
+    "id": "95a09eb166ef343b0d159b0ed0a75193",
+    "title": "Software developer says there's a \"dangerous gap opening up\" between AI power and alignment",
+    "description": "News broke this week that a rogue artificial intelligence agent hacked Australia's health care database, and no notice was given for months. Matt Calkins, CEO and co-founder of Appian, which develops software to maximize AI integration, joins to unpack the we\u2026",
+    "vader_score": -0.5423,
+    "human_label": -1
+  },
+  {
+    "id": "dcc4dda93484fa81c672c4065a8d8c0a",
+    "title": "CEO of company behind FAA's new AI tool explains how the technology works",
+    "description": "Washington, D.C., airports are debuting a new artificial intelligence tool designed to help air traffic controllers and airlines with future scheduling and weather issues. Air Space Intelligence CEO Phillip Buckendorf, whose company developed the system, join\u2026",
+    "vader_score": 0.836,
+    "human_label": 1
+  },
+  {
+    "id": "8f0fc4e9f66a679f5d6bf8bbb490663e",
+    "title": "Ben Ray Luj\u00e1n urges Senate leadership to form AI select committee",
+    "description": "A dedicated AI committee could streamline U.S. policy, mitigating fragmented state regulations and aligning with global governance trends.\nThe post Ben Ray Luj\u00e1n urges Senate leadership to form AI select committee appeared first on Crypto Briefing.",
+    "vader_score": 0.4588,
+    "human_label": 1
+  },
+  {
+    "id": "a78244785de27c9f7fb721068a75acfd",
+    "title": "What to expect at NetApp INSIGHT: Join theCUBE Sept. 30",
+    "description": "As artificial intelligence goes into production, unified storage could be the glue that keeps everything together. NetApp Inc., a leader in enterprise data storage, wants to lift the burden of AI on enterprise infrastructure. Data management has proven to be \u2026",
+    "vader_score": 0.6124,
+    "human_label": 1
+  },
+  {
+    "id": "8e13c93fba04dfee73eae98f3b398391",
+    "title": "Bill Gates Warns AI Is \u2018Powerful\u2019 Enough To \u2018Cause A Billion Deaths\u2019",
+    "description": "Billionaire Bill Gates told \u201cMeet the Press\u201d that government regulation is needed for artificial intelligence and warned the ...",
+    "vader_score": 0.1531,
+    "human_label": 1
+  },
+  {
+    "id": "a8809f93f727ef042636916be2499396",
+    "title": "Google DeepMind employees explore funding for AI startup at London breakfast meeting",
+    "description": "The meeting underscores London's growing role as an AI innovation hub, attracting global interest and investment despite geographic funding tensions.\nThe post Google DeepMind employees explore funding for AI startup at London breakfast meeting appeared first \u2026",
+    "vader_score": 0.8924,
+    "human_label": 1
+  },
+  {
+    "id": "7e038de3fa83666b824de939778a5356",
+    "title": "\u26a0\ufe0fCapacity cut to 50% for Argentina v Bolivia after FIFA sanction",
+    "description": "The Argentina National Team confirmed that C\u00f3rdoba\u2019s Mario Alberto Kempes Stadium will operate at 50% capacity during next Wednesday, September 30\u2019s match against Bolivia. The origin of the disci...",
+    "vader_score": -0.2732,
+    "human_label": -1
+  },
+  {
+    "id": "84949d9f250b55f1a6e3101862e9d102",
+    "title": "Abdul El-Sayed Gets Boost in Michigan as Voters Sour on AI Data Centers",
+    "description": "As artificial intelligence and the data centers that power it become increasingly unpopular with voters, progressive Democratic candidate Abdul El-Sayed is cashing in on the issue in Michigan's U.S. Senate race.\nA New York Times/Siena poll released Thursday f\u2026",
+    "vader_score": 0.7003,
+    "human_label": 1
+  },
+  {
+    "id": "a2bfb2658fc100686bcbe4e829482dbb",
+    "title": "Optimized design of 3D human pose estimation algorithm based on improved adaptive attention mechanism for sports training",
+    "description": "Scientific Reports - Optimized design of 3D human pose estimation algorithm based on improved adaptive attention mechanism for sports training",
+    "vader_score": 0.9042,
+    "human_label": 1
+  },
+  {
+    "id": "b72773706d9308562e840cf9e7b10ee2",
+    "title": "Data-driven identification of economic drivers and regional disparities of ecological resilience in china\u2019s urban agglomerations: an explainable deep learning framework",
+    "description": "Scientific Reports - Data-driven identification of economic drivers and regional disparities of ecological resilience in china\u2019s urban agglomerations: an explainable deep learning framework",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "ad0bdd84327e2dc62e0dbac7b91fb03d",
+    "title": "Machine learning and statistical methods for molecular quantitative trait loci",
+    "description": "Molecular quantitative trait loci (molQTLs) provide key insights into how non-coding variants shape complex traits and disease. In this Review, the authors outline statistical and machine learning approaches for molQTL mapping and downstream analyses, includi\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "b2496ac3b981ccfbe75e2fb18f8d24cd",
+    "title": "SpaCEy links spatial tissue patterns to clinical outcomes using explainable graph neural networks",
+    "description": "SpaCEy uses explainable graph neural networks to link spatial tissue organisation with clinical outcomes, identifying spatial and molecular patterns associated with cancer progression and patient survival.",
+    "vader_score": -0.6597,
+    "human_label": -1
+  },
+  {
+    "id": "2d24ca2d188d030e29798f9938cbd2f1",
+    "title": "Integrating LLMs into iOS Applications With Swift Using ONNX Runtime",
+    "description": "Artificial Intelligence has become one of the most influential technologies in modern software development. From chatbots and recommendation systems to sentiment analysis and intelligent search, machine learning models are now expected features in many mobile\u2026",
+    "vader_score": 0.8777,
+    "human_label": 1
+  },
+  {
+    "id": "4030127375a81a58df2400a30f24ea48",
+    "title": "Why octopus camouflage is so hard to explain: They cannot see colour as we do, yet they can blend into their surroundings with stunning precision",
+    "description": "Octopuses possess specialized skin structures that allow them to change their color and texture to blend in. Their visual systems detect light and patterns, but they have poor color vision. Neural signals control skin cells rapidly, enabling quick adaptations\u2026",
+    "vader_score": -0.2103,
+    "human_label": -1
+  },
+  {
+    "id": "8f1c2012511e7304615a31dbafdcba8a",
+    "title": "Australian Prime Minister Says OpenAI Hacked Medicare",
+    "description": "MOSCOW (Sputnik) - Australian Prime Minister Anthony Albanese said that an artificial intelligence agent developed by US tech company OpenAI had hacked the national universal healthcare system, Medicare, in what he described as an \"unacceptable\" situation.",
+    "vader_score": -0.3182,
+    "human_label": -1
+  },
+  {
+    "id": "d71e17fc5f972a8f6d28679e64ce83cd",
+    "title": "This is how we lose control of AI \u2013 one successful task at a time",
+    "description": "From a sandbox escape to online cheat sheets, OpenAI\u2019s AI agents show how powerful systems can find dangerous shortcuts to a reward Read Full Article at RT.com",
+    "vader_score": 0.4939,
+    "human_label": 1
+  },
+  {
+    "id": "dceb1041ff5e608b9a59ba0f912edf1a",
+    "title": "The dual-enhanced graph learning framework DePass allows paired data integration in single-cell and spatial multiomics",
+    "description": "Li, Jiang and colleagues present DePass, a graph-based deep learning framework for integrating paired multi-omics data in spatial and single-cell contexts. A dual-enhancement approach is used to remove noise from raw omics data using neighbourhood aggregation.",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "f51443d014d7d437214f53d095c83618",
+    "title": "How AI data foundations are rewriting enterprise architecture",
+    "description": "In the quest to deploy artificial intelligence at scale, enterprises are discovering a basic truth: Model capability is no longer the only issue, but data access and control can determine success or failure for AI initiatives. This realization has led to a fo\u2026",
+    "vader_score": 0.4019,
+    "human_label": 1
+  },
+  {
+    "id": "8f9ffc088abda365cbdc9eb2f6532f5b",
+    "title": "An integrated explainable AI framework with counterfactual optimization for decision support",
+    "description": "Artificial intelligence is increasingly used to support managerial decision-making in domains such as human resource management and customer relationship management; however, the lack of transparency in complex predictive models limits their practical adoptio\u2026",
+    "vader_score": 0.8316,
+    "human_label": 1
+  },
+  {
+    "id": "0b319096b517f0434a2c22cef27927ea",
+    "title": "Signia Introduces MaX, Powered by Acoustic Intelligence\u2122: World\u2019s First AI Hearing Aid Platform with 4 DNNs",
+    "description": "Signia\u2019s Acoustic Intelligence\u2122 unites four task-specific Deep Neural Networks to simultaneously understand speech, noise, environment, and the wearer\u2019s own voice. 97% of wearers perform better with Signia MaX in noisy group conversations compared to key comp\u2026",
+    "vader_score": 0.296,
+    "human_label": 1
+  },
+  {
+    "id": "93643203f0d07290e1e229c90fbcef04",
+    "title": "Training data provider Snorkel AI raises $350M at $3.5B valuation",
+    "description": "Snorkel AI Inc., a provider of artificial intelligence training data, today disclosed that it has raised $350 million in funding. Insight and S32 led the Series E deal. They were joined by more than a half-dozen other backers including Alphabet Inc.\u2019s GV star\u2026",
+    "vader_score": 0.4767,
+    "human_label": 1
+  },
+  {
+    "id": "6e16a4d0619c352dda46c49602a1e905",
+    "title": "Volumetrically continuous 3D dynamic holography via cascaded light-field propagation",
+    "description": "Cascaded light-field propagation enhances three-dimensional holography by transforming crosstalk into constructive signals. Using an untrained neural framework, the method achieves continuous projections along with improvements in contrast and spatial resolut\u2026",
+    "vader_score": 0.5994,
+    "human_label": 1
+  },
+  {
+    "id": "c19057513040e8527edbd26faf35a4b8",
+    "title": "AI-based characterization of Alzheimer\u2019s disease phenotypes from population-scale single-cell data",
+    "description": "Based on single-cell data from a cohort of 584 brain donors including patients with Alzheimer\u2019s disease (AD) and controls, a graph neural network is used to investigate differential patterns between disease and control, to identify those related to cognitive \u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "63278f8d0a1c84a7d70a5ad4385d7012",
+    "title": "AstroForge is putting AI in command of its next spacecraft | TechCrunch",
+    "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "25dc4f35c70feeeadad216b5c641f485",
+    "title": "Performance of machine learning\u2013based prediction models for hypoglycemia in Chinese patients with diabetes: A systematic review and meta-analysis",
+    "description": "Objectives This study aimed to systematically evaluate the predictive performance of machine learning (ML)\u2013based models for predicting hypoglycemia in Chinese patients with diabetes.   Methods We systematically searched PubMed, Embase, Web of Science, the Coc\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "ef972e4bf9a5fd29b10c9955b8239716",
+    "title": "Barracuda launches AI Data Security to control what employees send to chatbots",
+    "description": "Cybersecurity company Barracuda Networks Inc. today launched Barracuda AI Data Security, a product that monitors and controls what company data employees feed into artificial intelligence tools. The release goes after a control gap that opens when workers ado\u2026",
+    "vader_score": 0.8126,
+    "human_label": 1
+  },
+  {
+    "id": "8521f111c04eba1193767dba18d24245",
+    "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+    "description": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+    "vader_score": 0.5267,
+    "human_label": 1
+  },
+  {
+    "id": "db211f4459abd5ca6064980bc880cd5f",
+    "title": "Reporter's Notebook: Congress faces a crisis that the 'AI godfather' warns it may not be ready to address",
+    "description": "Geoffrey Hinton warns Congress has a year max to act on artificial intelligence, but political gridlock and midterms could delay legislation.",
+    "vader_score": -0.6603,
+    "human_label": -1
+  },
+  {
+    "id": "f28ad7967848cdcdac5f07f1d5c6ae6c",
+    "title": "The Brain Shrinks as We Age and During Major Transitions. But Surprisingly, It Seems to Take a Break From Rewiring During Menopause",
+    "description": "Puberty, pregnancy and menopause are the three major hormonal transitions for the female brain. Researchers already knew that during the first two, the organ fine-tunes itself in response to hormonal shifts, but they haven't been sure about the third",
+    "vader_score": 0.0918,
+    "human_label": 0
+  },
+  {
+    "id": "89feb7fc0c0722cdc73fb2367a07b4b2",
+    "title": "CoRoPINN: Cognitive region optimized physics-informed neural networks",
+    "description": "The solution of partial differential equations (PDEs) remains a significant problem in scientific computing. Although physics-informed neural networks (PINNs) provide a mesh-free paradigm, pointwise constraints offer limited supervision between collocation po\u2026",
+    "vader_score": 0.3612,
+    "human_label": 1
+  },
+  {
+    "id": "4a9b4fa16ba816cb331d7cc24cfbc735",
+    "title": "AlloPool is a deep learning framework that infers protein allostery from molecular dynamics simulations",
+    "description": "Protein function depends on dynamic conformational changes that remain difficult to predict despite advances in AI-based structure modeling. This study develops a graph neural network-based framework called AlloPool that accurately extracts allosteric communi\u2026",
+    "vader_score": 0.296,
+    "human_label": 1
+  },
+  {
+    "id": "529dd6e3abcd52a79851454d2a2cdf17",
+    "title": "Daskalakis on Artificial Intelligence: \u2018The risk of unpredictable behaviour is already real\u2019",
+    "description": "The MIT professor examines the risks posed by advanced models and AI agents, and the need for strict safety safeguards\nThe post Daskalakis on Artificial Intelligence: \u2018The risk of unpredictable behaviour is already real\u2019 appeared first on ProtoThema English.",
+    "vader_score": 0.7964,
+    "human_label": 1
+  },
+  {
+    "id": "b0ca96050c5a63be92d1875626cb344b",
+    "title": "Chaotic Dynamics-Regulated Topological Learning for Patient-Specific Preictal State Identification",
+    "description": "Epileptic seizures arise from complex, nonlinear interactions within brain networks, yet reliable electroencephalographic (EEG) prediction remains challenging due to the nonstationary and heterogeneous nature of neural dynamics. Existing methods typically ana\u2026",
+    "vader_score": -0.128,
+    "human_label": -1
+  },
+  {
+    "id": "b9698cdd3d891488e4fbd5698964094d",
+    "title": "A compact 2D photonic crystal biosensor for optical detection of glioblastoma brain tissues enhanced by neural networks",
+    "description": "Scientific Reports - A compact 2D photonic crystal biosensor for optical detection of glioblastoma brain tissues enhanced by neural networks",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "eec454cc871c6fc347cd1a41df5054a1",
+    "title": "Closing the gap between your AI eyes and stomach at HumanX",
+    "description": "Fresh off my jaunt to AGNTCon + MCPCon Europe last week, I headed back to Amsterdam for the first European installment of the artificial intelligence-focused HumanX conference so I could meet with another round of AI startups. As always, my goal was to uncove\u2026",
+    "vader_score": 0.3182,
+    "human_label": 1
+  },
+  {
+    "id": "12a62ad4e222b6222364396a39f47522",
+    "title": "RAG Is Not Enough: The Rise of Enterprise Knowledge Graphs for AI Systems",
+    "description": "Retrieval-augmented generation has become a standard pattern for grounding large language models in enterprise data. A typical implementation converts documents into embeddings, stores them in a vector database, retrieves the most similar chunks for a query, \u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "d10e688ac385f7c0c76667404f356866",
+    "title": "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends",
+    "description": "Balakrishnan Ramdoss discusses how to architect production-grade, AI-powered conversational apps at scale. He explains how to overcome model latency, leverage server-driven UI and Backend-for-Frontend patterns to dynamically render multi-modal interfaces, opt\u2026",
+    "vader_score": 0.743,
+    "human_label": 1
+  },
+  {
+    "id": "3839e6fd31bb52402f1e2d6460440088",
+    "title": "Trust, but verify: Atomic claim checking against LLM hallucinations",
+    "description": "Hallucinations kept an LLM out of our knowledge base cleanup for years. Splitting generation from atomic claim verification fixed it and cleared a four-year backlog of duplicate articles.",
+    "vader_score": 0.4118,
+    "human_label": 1
+  },
+  {
+    "id": "055133b86bf4691edaaa7a2d59552abb",
+    "title": "Efficient MoE Training for Biological Foundation Models",
+    "description": "As language models grow, scaling dense architectures becomes increasingly expensive. In a dense transformer, every token passes through every layer, so adding...",
+    "vader_score": 0.4215,
+    "human_label": 1
+  },
+  {
+    "id": "3235818e2cc9a562bb0fa75fb6f25266",
+    "title": "Bell, Cohere deploy Canadian cybersecurity AI for threat investigation",
+    "description": "Bell Canada and AI company Cohere announced the launch of a cybersecurity AI model that will exist within Bell Cyber\u2019s security operations. The large language model (LLM), announced at Bell\u2019s Cybersecurity Summit in Toronto, was built using Cohere\u2019s enterpris\u2026",
+    "vader_score": -0.25,
+    "human_label": -1
+  },
+  {
+    "id": "f75ad0e2902871eb73d26c7aa588a6dc",
+    "title": "Anthropic Blocks Huawei Chips From Using Latest Opus 5.5 to Develop AI Models, Yet Amazon Appears To Have Gotten Caught in the Crossfire",
+    "description": "Anthropic's Claude Opus 5.5, through which the firm claims to beat its own Fable 5.1 and OpenAI's GPT-6 AI models, comes with rather interesting limitations in its support documents. With AI being able to develop itself, Anthropic has limited support on Opus \u2026",
+    "vader_score": 0.7184,
+    "human_label": 1
+  },
+  {
+    "id": "c341cfbaffb3a753ef663c34f340d873",
+    "title": "Prevalence and predictors of artificial intelligence chatbots use for caregiving: Evidence from the Understanding America Study",
+    "description": "Support for the growing population of family caregivers in the United States remains a challenging public health issue. With a limited workforce to support families coping with chronic and degenerative conditions, caregivers are turning to individualized appr\u2026",
+    "vader_score": 0.8934,
+    "human_label": 1
+  },
+  {
+    "id": "cbe8e8a17f2f5a82ad0b139e9ab203d4",
+    "title": "SQREEM Touts The Large Behavioral Model \u2013 Not The LLM \u2013 As The Winning Predictive Engine",
+    "description": "Rather than relying on machine learning, SQREEM uses a mathematical AI model to track how systems change over time and predict audience behavior.\nThe post SQREEM Touts The Large Behavioral Model \u2013 Not The LLM \u2013 As The Winning Predictive Engine appeared first \u2026",
+    "vader_score": 0.765,
+    "human_label": 1
+  },
+  {
+    "id": "f2b262e178233139e6a12f1126803ebe",
+    "title": "Rocket Software brings governed AI agents to mainframe operations",
+    "description": "Rocket Software Inc. is expanding its Enterprise Virtual Assistant agentic artificial intelligence platform to help enterprises investigate and eventually automate operational work on mainframe systems while stopping short of giving AI agents unrestricted acc\u2026",
+    "vader_score": 0.765,
+    "human_label": 1
+  },
+  {
+    "id": "089a718908ac009e21f2a5eb7bef98ab",
+    "title": "MCP Is Not Just Another API Standard",
+    "description": "Ask most engineers what MCP is and you\u2019ll get the same answer: a way to plug tools into an LLM. Fair enough, as far as it goes. But that description treats MCP like plumbing, and after months building MCP-based integrations for large enterprise platforms, I d\u2026",
+    "vader_score": 0.5994,
+    "human_label": 1
+  },
+  {
+    "id": "0ae835db92d139a1cf440c17d9bfeb95",
+    "title": "Inside AI Prompt Security: Why Stopping Every LLM Exploit Is Impossible",
+    "description": "Because AI understands human language, hackers can trick models using clever phrasing. Here's how developers build defenses\u2014and why attacks still get through.\nIf you've watched an AI presentation recently, you've probably heard a lot about \"guardrails.\" It's \u2026",
+    "vader_score": 0.0772,
+    "human_label": 1
+  },
+  {
+    "id": "8780710525c04cd68f08e9fe8f26e480",
+    "title": "Accels has been serving customers in recent years. The company's plans extend far beyond routing",
+    "description": "Token Is Becoming a Managed Asset. The Economics of AI Are Entering a New Phase. SINGAPORE, Sept. 22, 2026 /PRNewswire/ -- Enterprise spending on AI tokens is growing faster than the systems designed to track it. A McKinsey study found that enterprise LLM spe\u2026",
+    "vader_score": 0.5994,
+    "human_label": 1
+  },
+  {
+    "id": "7a1d2900115435f5595f2e61fd52783a",
+    "title": "Breaking the AI productivity paradox: an intelligent migration factory to modernize infrastructure and applications",
+    "description": "The rise of generative AI promised a silver bullet, but for most enterprises, especially banks, digital transformation remains a slow, complex, and costly endeavor. Early reports suggested massive developer productivity gains. But when AI is applied to comple\u2026",
+    "vader_score": 0.6187,
+    "human_label": 1
+  },
+  {
+    "id": "6b13fd63ab5b06f3d4d0c974712ad400",
+    "title": "Comscore says ChatGPT\u2019s LLM market share is shrinking as Google Gemini advances",
+    "description": "The large language model (LLM) that introduced many consumers to the current era of AI chatbots is still a popular source for answers, but other competitors are gaining fast. ChatGPT\u00a0accounts for half of the \"prompt volume\" across the chatbot landscape, but\u00a0G\u2026",
+    "vader_score": 0.7351,
+    "human_label": 1
+  },
+  {
+    "id": "2dd1cfce92d1c1d6bd969144889d8fb8",
+    "title": "Inside AI Prompt Security: Why Stopping Every LLM Exploit Is Impossible",
+    "description": "Because AI understands human language, hackers can trick models using clever phrasing. Here's how developers build defenses\u2014and why attacks still get through.\nIf you've watched an AI presentation recently, you've probably heard a lot about \"guardrails.\" It's \u2026",
+    "vader_score": 0.0772,
+    "human_label": 1
+  },
+  {
+    "id": "587bfe63be2b599def8eb0ea5b4a835a",
+    "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
+    "description": "As large language model (LLM) inference increasingly processes sensitive information and proprietary model context across personal, enterprise, and regulated...",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "5b33c67aa04331f62df80a213751455d",
+    "title": "BNB Agent Studio v4 simplifies agent deployment with NodeOps support",
+    "description": "BNB Agent Studio v4's streamlined deployment could accelerate AI agent adoption, enhancing blockchain utility and fostering ecosystem growth.\nThe post BNB Agent Studio v4 simplifies agent deployment with NodeOps support appeared first on Crypto Briefing.",
+    "vader_score": 0.7906,
+    "human_label": 1
+  },
+  {
+    "id": "f667bfc54afcd67d6240b0f96bebb433",
+    "title": "OpenAI is about to eat Jev's lunch \u2013 Arcturus Labs",
+    "description": "TypeSafe's Jev is a genuine breakthrough \u2013 snap judgments with calibrated probabilities instead of generated text. My bet is OpenAI is already figuring out how to copy it, and then embed it inside its own models where Jev can't follow.",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "d6106627aedb16265dc320e7f0eab3a8",
+    "title": "Variability among large language models in assessing CONSORT compliance of published randomized clinical trials",
+    "description": "Background Peer review processes may inadequately assess compliance with established reporting guidelines such as the Consolidated Standards of Reporting Trials (CONSORT) criteria. Large language models (LLMs) demonstrate potential for systematic manuscript e\u2026",
+    "vader_score": -0.25,
+    "human_label": 0
+  },
+  {
+    "id": "ed3256fac6b9bff8a5cb5329bd5b458c",
+    "title": "Attempts to investigate what words trivia experts focus on in quiz questions: Human-AI comparison through \u201cLLM-as-a-judge\u201d approach",
+    "description": "Computational capacity and knowledge of humans are more limited than those of large language models (LLMs). However, in buzzer quizzes, human trivia experts can often identify the correct answer even from insufficient information such as only a few words. Inv\u2026",
+    "vader_score": -0.2944,
+    "human_label": 1
+  },
+  {
+    "id": "69552af18e7b5eddf7628bf14ac1a222",
+    "title": "AI Is Antithetical to Learning",
+    "description": "LLM agents can write a lot of code for you very fast, but they also take away opportunities to learn and grow.",
+    "vader_score": 0.5267,
+    "human_label": 1
+  },
+  {
+    "id": "ea8c3d37c862b389edb7216d62f065d4",
+    "title": "Being a smart LLM doesn\u2019t make it a team player",
+    "description": "Research shows that smarter LLMs often hinder teamwork, hoarding information instead of collaborating effectively, challenging AI's cooperative potential.",
+    "vader_score": 0.8481,
+    "human_label": 1
+  },
+  {
+    "id": "0dc5df9f5a8d87fe4abbef94841db31f",
+    "title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
+    "description": "In this article, you will learn what embedding drift is, why it matters for production large language models, and how to implement two practical techniques to detect it.",
+    "vader_score": 0.0258,
+    "human_label": 0
+  },
+  {
+    "id": "236adc402a2964e74fd84034435da8a4",
+    "title": "SpaceX launches Grok 4.7 with long-horizon processing, safety upgrades",
+    "description": "SpaceX Corp. today introduced Grok 4.7, its most capable large language model to date. The Grok algorithm series was originally created by an Elon Musk-founded startup called xAI Corp. Musk merged the company with xAI Inc. last year. The combined organization\u2026",
+    "vader_score": 0.7713,
+    "human_label": 1
+  },
+  {
+    "id": "1874dcc969c3be8dc0c9816cd5e8eedb",
+    "title": "AutoRAG pipeline optimization in Red Hat OpenShift AI",
+    "description": "If you're an AI or machine learning engineer, you've seen the classic demo: ingest a clean PDF into a prototype, build a vector database index using standard tutorial code, and submit a simple question. The model returns a pristine answer, everyone nods, and \u2026",
+    "vader_score": 0.6486,
+    "human_label": 1
+  },
+  {
+    "id": "533450666b0c5993eb9e07b89ab3f89f",
+    "title": "Bank of Canada developing new AI model to help with economic forecasts: Macklem",
+    "description": "The Bank of Canada is developing a new artificial intelligence model designed to help officials with economic forecasting. Find out more.",
+    "vader_score": 0.8176,
+    "human_label": 1
+  },
+  {
+    "id": "4199ef1b0a361de8b4b3635b9b9df73b",
+    "title": "One effort to safeguard humanity: AI \u201cconstitutions\u201d",
+    "description": "Berkman Klein Center heard calls to keep models \u201chonest, helpful, harmless.\u201d It\u2019s a work in progress.",
+    "vader_score": 0.802,
+    "human_label": 1
+  },
+  {
+    "id": "3a3da945aaa49d1f4da18ece1154125d",
+    "title": "SpaceX\u2019s Grok 4.7 Lands Like A Damp Squid Albeit With Some Improvements, As DeepSeek Teases 8 Trillion Parameters For An Upcoming Model",
+    "description": "SpaceX, or rather its subsidiary SpaceXAI, has just announced its latest and greatest AI model - Grok 4.7 - to middling reviews, as DeepSeek tantalizes the collective imagination of LLM community with an upcoming 8-trillion-parameter model. The good, bad, and\u2026",
+    "vader_score": 0.7351,
+    "human_label": 1
+  },
+  {
+    "id": "7b7a3cff9ff3e7b0031da13f34a2f2ec",
+    "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+    "description": "EXL built an AI-powered Medical intelligent document processing (IDP) solution on AWS, combining IDP with domain-specific large language models on Amazon SageMaker and Amazon Bedrock to extract, summarize, and query medical records at enterprise scale and cut\u2026",
+    "vader_score": 0.8402,
+    "human_label": 1
+  },
+  {
+    "id": "f73044b9a5c998871ee7564f3968a230",
+    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+    "description": "OpenAI\u2019s proof seems eligible for a $1-million prize\u2014but only by using a controversial loophole",
+    "vader_score": -0.7003,
+    "human_label": -1
+  },
+  {
+    "id": "5fb26953e7156eb95d9d1c5b183abbf6",
+    "title": "Telcos step up to the AI model challenge \u2013 GSMA",
+    "description": "The GSMA\u2019s Naresh Chouhan warns that frontier models still don\u2019t perform well in telco environmentsBut telcos such as AT&T and China Telecom are stepping up an\u2026",
+    "vader_score": 0.25,
+    "human_label": 1
+  },
+  {
+    "id": "f08142cb1bd6c5832588e10e4c74afbc",
+    "title": "Python Workers are now generally available",
+    "description": "Python Workers allow developers to run Python web frameworks and AI orchestration libraries natively in the Cloudflare Workers runtime. You can seamlessly integrate with Cloudflare's ecosystem including D1, R2, and Workers AI without writing any JavaScript gl\u2026",
+    "vader_score": 0.2263,
+    "human_label": 1
+  },
+  {
+    "id": "7384180e2eee028921df16c21c956557",
+    "title": "Inova\u2019s Kull Says a Data Moat Is a Losing Strategy as LLMs Become the Front Door",
+    "description": "Matthew Kull, EVP, Chief Information and Digital Officer at Inova Health, discusses why walling scheduling data off from large language models costs health systems appointments. He reports API calls from ChatGPT into Inova's Epic environment have skyrocketed,\u2026",
+    "vader_score": -0.3818,
+    "human_label": -1
+  },
+  {
+    "id": "3a67cda53e854f49cdb3b8b4b06e8092",
+    "title": "Appeals court declines to block Pentagon\u2019s blacklisting of Anthropic",
+    "description": "A federal appeals court upheld on Friday the Pentagon\u2019s blacklisting of Anthropic from military contracts, handing a victory to President Donald Trump and Defense Secretary Pete Hegseth in their battle with the AI startup over safety guardrails on its technol\u2026",
+    "vader_score": -0.296,
+    "human_label": -1
+  },
+  {
+    "id": "375db14705c63f58fd70084d5994f01c",
+    "title": "Nvidia CEO Jensen Huang Says That Sacrificing Our Children\u2019s Minds to AI Is a Price He\u2019s Willing to Pay",
+    "description": "With so much hype about the future of AI safety, it can be easy to overlook the harms AI is causing in the here and now. On the consumer side, the impact generative AI has on the developing mind is becoming increasingly clear: students are losing critical thi\u2026",
+    "vader_score": -0.0516,
+    "human_label": -1
+  },
+  {
+    "id": "76c8a8fc1d9aef6a6ddbc132339d4fd8",
+    "title": "AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety",
+    "description": "New York City set to regulate AI companies, with one proposed bill mandating a 'kill switch'\nThe New York City Council is readying legislation to rein in the artificial intelligence industry as AI companies continue to grow their presence in the city.\nOne bil\u2026",
+    "vader_score": -0.4588,
+    "human_label": -1
+  },
+  {
+    "id": "31b68a2c19872c26213e715f9253635f",
+    "title": "AI \u2018doomer\u2019 PR firm worked for Jacob Coxon as he sparked furor over safety while denying third-party help: report",
+    "description": "A prominent PR firm with ties to AI doomsayers worked for Jacob Coxon as the ex-Anthropic researcher made national headlines for sounding the knell of the apocalypse about artificial intelligence, according to a report.",
+    "vader_score": 0.7003,
+    "human_label": 1
+  },
+  {
+    "id": "e74cf47f3bf815a7adda534fb39e6a13",
+    "title": "Bill Gates Warns AI Could Cause 'A Billion Deaths' Without Government Control",
+    "description": "Bill Gates, the tech evangelist and leftist billionaire who has suddenly changed his tune to focus on the dangers of AI, told NBC's Meet the Press that artificial intelligence could kill on a scale never before possible.\nThe post Bill Gates Warns AI Could Cau\u2026",
+    "vader_score": -0.765,
+    "human_label": -1
+  },
+  {
+    "id": "2cca03f6682f07e45b40a28f7c21d50c",
+    "title": "AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety - foxnews.com",
+    "description": "AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safetyfoxnews.com Trump-Xi state dinner guest list includes SpaceX\u2019s Musk, Nvidia\u2019s Huang and LVMH\u2019s Arnaultreuters.com AMD CEO Lisa Su is having a September to rememberYahoo Finance\u2026",
+    "vader_score": -0.5574,
+    "human_label": 1
+  },
+  {
+    "id": "97ec5333e236e2c099f443d21bc95f67",
+    "title": "Donald Trump tells OpenAI, Anthropic to withhold models from UK agency",
+    "description": "Trump's government wants to ensure US-made models are secure before they are shared with partners including the UK",
+    "vader_score": 0.7506,
+    "human_label": 1
+  },
+  {
+    "id": "4cf354f941925abc5e4ae7ea586dda6c",
+    "title": "\u2018Our industry sees the risks and is concerned\u2019: European tech leaders join calls for AI slowdown",
+    "description": "Pip White, head of U.K. and Ireland, Northern Europe, and Israel at Anthropic, is among the tech leaders calling for a global cooperation on regulating AI.",
+    "vader_score": 0.0258,
+    "human_label": 0
+  },
+  {
+    "id": "96b4fad013cda62fd731003397869795",
+    "title": "Fox News AI Newsletter: Tech company says scientific discovery could change medicine",
+    "description": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.",
+    "vader_score": 0.7184,
+    "human_label": 1
+  },
+  {
+    "id": "7099da9e9c3eafa1751fb915fe3b9596",
+    "title": "Appeals court declines to block Pentagon\u2019s blacklisting of Anthropic",
+    "description": "The ruling \u2060came in a lawsuit by Anthropic challenging its designation by the Pentagon as a national security supply \u200bchain risk.",
+    "vader_score": -0.4404,
+    "human_label": -1
+  },
+  {
+    "id": "4e404875e37c790f91edb5f6fa5acc51",
+    "title": "Spring Health Opens VERA-MH Harm-From-Others Safety Rubric for Public Comment",
+    "description": "The expansion adds a harm-from-others safety area to VERA-MH, the first open-source AI safety benchmark for mental health, and invites public feedback ahead of Domestic Violence Awareness Month NEW YORK, Sept. 25, 2026 /PRNewswire/ -- Spring Health, a global \u2026",
+    "vader_score": 0.5106,
+    "human_label": 1
+  },
+  {
+    "id": "aca60f5fe430dc87b232798c484a89fc",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "description": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled fur\u2026",
+    "vader_score": -0.0772,
+    "human_label": -1
+  },
+  {
+    "id": "c01ce16603fc259093ee63ee7640685b",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "description": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled fur\u2026",
+    "vader_score": -0.0772,
+    "human_label": -1
+  },
+  {
+    "id": "87a4bc2216d12cb04a8a2ca152379293",
+    "title": "Jensen Huang says AI labs that can't control their systems should shut down",
+    "description": "\"Now, if they say the alternative, which is: There is no way to contain our experiments, there's just no way; when we test our AI models, it will get out, and it will damage the world \u2013 then I think the answer is that we have to shut the labs...Read Entire Ar\u2026",
+    "vader_score": -0.765,
+    "human_label": -1
+  },
+  {
+    "id": "fc8463ab92add2364dfc627449198b50",
+    "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+    "description": "The price tag is significantly higher than previously known.",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "97b46d49ef98fd746b2faa5a78e79d47",
+    "title": "US appeals court upholds Pentagon's blacklisting of Anthropic",
+    "description": "NEW YORK, Sept 25 : A federal appeals court on Friday declined to block a Defense Department order blacklisting Anthropic from military contracts and deeming the AI startup a national security risk.The ruling from the US Court of Appeals for the District of C\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "4b0e080b02d345eee7532caf54b2bb4a",
+    "title": "Bill Gates warns AI could cause a billion deaths and says self-regulation is not enough",
+    "description": "Bill Gates said artificial intelligence is powerful enough to drive events causing a billion deaths, and that self-regulation is not enough because safeguards and monitoring have to be a required thing. The European Union has required them since August 2025, \u2026",
+    "vader_score": 0.5368,
+    "human_label": 1
+  },
+  {
+    "id": "509f02c971ac1804cbbe84367d5bfc5f",
+    "title": "Trump Claims Xi Likes Idea Of Renaming AI \u2018Super Intelligence\u2019 After His Online Poll",
+    "description": "President Donald Trump claimed on social media that Chinese President Xi Jinping liked his idea of renaming Artificial Intelligence as Super Intelligence.\nThe post Trump Claims Xi Likes Idea Of Renaming AI \u2018Super Intelligence\u2019 After His Online Poll first appe\u2026",
+    "vader_score": 0.9552,
+    "human_label": 1
+  },
+  {
+    "id": "2b67eaeead8e9bbf959acecf5a1bc81b",
+    "title": "Leading Lights of AI Join Trump and Xi at State Dinner -- Anthropic's Dario Amodei Not in the Room",
+    "description": "President Donald Trump hosted Chinese President Xi Jinping at a White House state dinner Thursday, joined by the Masters of the AI Universe. Anthropic's Dario Amodei was notably missing from the guest list that features Jensen Huang, Sam Altman, and Elon Musk\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "ba48381075230e90c9d04efcd354f91a",
+    "title": "AI's 'paradise of machines' a threat to humanity, Pope Leo says",
+    "description": "Pope Leo XIV warned Friday that a \"paradise of machines\" risked undermining humanity as he opened a trip to France by posing fundamental questions about what it means to be human in the age of artificial intelligence, nuclear arms race and other threats to li\u2026",
+    "vader_score": 0.2023,
+    "human_label": 1
+  },
+  {
+    "id": "97076781bedff39e8f9b0a48a0ac2dcf",
+    "title": "After Xi-Trump summit, US-China rivalry remains frozen. Is this to Beijing's advantage?",
+    "description": "The US president showcased White House construction projects and hosted a lavish dinner with tech CEOs, but the summit made little progress on key issues such as trade tensions and AI regulation.",
+    "vader_score": 0.0543,
+    "human_label": 1
+  },
+  {
+    "id": "1ba12b803b4e2c36fa77e9d6a6fb65ec",
+    "title": "Tech Bros and the Trump Administration Are Building an AI Empire\u2014In the Philippines",
+    "description": "In a move that upended the international conversation about AI, earlier this month, a researcher at the AI company Anthropic named Jacob Coxon resigned and took to X to sound the alarm about what he saw as a dangerous trajectory. \u201cThe people building AI earne\u2026",
+    "vader_score": -0.7579,
+    "human_label": -1
+  },
+  {
+    "id": "2688f1f2b46ae49545ce26967e75d5a9",
+    "title": "Tech Bros and the Trump Administration Are Building an AI Empire\u2014In the Philippines",
+    "description": "In a move that upended the international conversation about AI, earlier this month, a researcher at the AI company Anthropic named Jacob Coxon resigned and took to X to sound the alarm about what he saw as a dangerous trajectory. \u201cThe people building AI earne\u2026",
+    "vader_score": -0.7579,
+    "human_label": -1
+  },
+  {
+    "id": "eab713a169e2bd54329dcfb93738393a",
+    "title": "New York City lawmakers propose financial rewards for AI whistleblowers",
+    "description": "NYC's AI oversight bills could set a precedent for comprehensive AI regulation, increasing compliance costs and legal risks for companies.\nThe post New York City lawmakers propose financial rewards for AI whistleblowers appeared first on Crypto Briefing.",
+    "vader_score": 0.765,
+    "human_label": 1
+  },
+  {
+    "id": "194c6fbcc2e08b7575a55e6d3db7857d",
+    "title": "Bill Gates says AI companies self-regulating isn\u2019t enough and governments should be involved",
+    "description": "Bill Gates called for lawmakers in Washington to regulate the development of artificial intelligence, weeks after the CEOs of some of the nation\u2019s biggest AI labs agreed on the need to slow the pace of AI progress.",
+    "vader_score": 0.7906,
+    "human_label": 1
+  },
+  {
+    "id": "a4714d7ab836ea0698681021b98784fc",
+    "title": "Report on Tumbler Ridge shooter's ChatGPT conversations shocks BC's attorney general",
+    "description": "British Columbia's attorney general says she's shocked by an article describing alleged interactions between the Tumbler Ridge mass shooter and ChatGPT, in which the AI chatbot vividly describes the effectiveness of a shotgun in a classroom.",
+    "vader_score": -0.5994,
+    "human_label": -1
+  },
+  {
+    "id": "af4b5d763398af70fe0d6bcf10724211",
+    "title": "Have we crossed the AI Rubicon?",
+    "description": "Four AI models broke containment this summer. Are they going rogue, or is our safety testing failing?",
+    "vader_score": -0.5661,
+    "human_label": -1
+  },
+  {
+    "id": "63f04b3f37c9b6b0229f76eb9b6c9741",
+    "title": "Effects of generative AI-mediated socratic dialogue on preservice physics teachers\u2019 critical thinking in kinematics",
+    "description": "Author(s): Marcos Guerrero-Zambrano, Bryan Valarezo-Chamba, Leonor Sanchez-Alvarado, and Erick Lamilla-RubioGenerative AI-mediated Socratic dialogue enhances critical thinking in kinematics, driving consistent improvements in student rubric scores and self-ef\u2026",
+    "vader_score": -0.3182,
+    "human_label": -1
+  },
+  {
+    "id": "744e5b90895aec472d15db4400bd69b3",
+    "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
+    "description": "The incursion on one of the country's most used government agencies may prompt a tougher stance as Australia readies AI-specific laws starting in 2027, adding pressure to Australia-US relations already tested by Canberra's teen social media ban, tech policy e\u2026",
+    "vader_score": -0.6249,
+    "human_label": -1
+  },
+  {
+    "id": "443fafbda3aba77020389fe4e4e2746e",
+    "title": "Why red states are rejecting Trump\u2019s AI vision for schools",
+    "description": "Six months ago, first lady Melania Trump walked into a White House education summit next to a faceless robot powered by artificial intelligence, which she said could one day give children personalized instruction. \u201cImagine a humanoid educator named \u2018Plato,\u2019\u201d \u2026",
+    "vader_score": 0.2732,
+    "human_label": 1
+  },
+  {
+    "id": "bd10e05dd5cb0a63a1db56c02c79e86d",
+    "title": "Donald Trump and Xi Jinping strike warm tone at White House as US-China tensions remain",
+    "description": "Trade truce extended but differences over Taiwan and artificial intelligence remain",
+    "vader_score": 0.5423,
+    "human_label": 1
+  },
+  {
+    "id": "78e6b17d668d57faf2e8cfe32dbf58a0",
+    "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
+    "description": "SYDNEY, Sept 25 : Even before a rogue OpenAI bot breached the database of Australia's health system, the government was escalating its rhetoric about the need to tighten regulation.The incursion on one of the country's most used government agencies may prompt\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "7e322dd794362bf6c7d7a0c908f83ca8",
+    "title": "First known government hack by AI raises new alarms over Big Tech\u2019s self-policing",
+    "description": "OpenAI\u2019s AI models hacked into Australia\u2019s Medicare database in June, the first known government breach by a rogue AI agent OpenAI didn\u2019t discover the breach until August and waited until September 10 to alert Australian officials Prime Minister Anthony Alban\u2026",
+    "vader_score": -0.3818,
+    "human_label": -1
+  },
+  {
+    "id": "f6094c7328baaf54cd616378a05b92e6",
+    "title": "Inside Trump's glitzy state dinner with China's Xi attended by tech titans and DC's elite as details emerge about talks between two world leaders",
+    "description": "The two world powers remain divided on the war in Iran and are still grappling to find common ground on trade and how to best navigate the jarring advances of artificial intelligence.",
+    "vader_score": 0.5267,
+    "human_label": 1
+  },
+  {
+    "id": "dad09c12bd20de71693de37eadf00cf8",
+    "title": "The AI factory is becoming the computer and it\u2019s changing the semiconductor race",
+    "description": "The next phase of artificial intelligence infrastructure will not be defined by a single graphics processing unit, chip architecture or model. Compute, memory, networking, packaging, power and software are converging into a new systems architecture with sover\u2026",
+    "vader_score": 0.4767,
+    "human_label": 1
+  },
+  {
+    "id": "15c54a41d1fce1005db36369a0350e6b",
+    "title": "Zero-shot emotional speech synthesis based on feature decoupling and adaptive loss-threshold reweighting",
+    "description": "Deep learning-based zero-shot speech synthesis has achieved substantial progress in speaker generalization, but stable modeling remains challenging in fine-grained emotional scenarios. Existing systems often process textual and emotional conditions through sh\u2026",
+    "vader_score": 0.8442,
+    "human_label": 1
+  },
+  {
+    "id": "589da2b7426faf8a5c83d8eab3297efc",
+    "title": "The case for purpose-built generative AI in fraud prevention",
+    "description": "Financial institutions must determine whether the AI they've deployed is built for today's and tomorrow's threat landscape.",
+    "vader_score": -0.802,
+    "human_label": -1
+  },
+  {
+    "id": "7dc7daf879aaeca49059cc9a3b45d46c",
+    "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
+    "description": "Concurrency sweeps help you right-size a generative AI endpoint on Amazon SageMaker AI by systematically benchmarking it at increasing load levels. This post walks through deploying a model, running automated concurrency sweeps with the CreateAIBenchmarkJob A\u2026",
+    "vader_score": 0.6249,
+    "human_label": 1
+  },
+  {
+    "id": "ed851cff92e7ae2897f9898b0a32eeed",
+    "title": "Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence",
+    "description": "In a large-scale study, a new tool called Esophageal AI-Guided malignant Lesion Evaluation uses artificial intelligence to enhance esophageal cancer detection through noncontrast computed tomography, achieving high sensitivity and specificity across diverse s\u2026",
+    "vader_score": -0.5574,
+    "human_label": -1
+  },
+  {
+    "id": "417ae49cf9cae5ded6dadfe183f8add2",
+    "title": "Peak-aware short-term household electricity consumption forecasting using deep learning and transformer-based architectures",
+    "description": "Scientific Reports - Peak-aware short-term household electricity consumption forecasting using deep learning and transformer-based architectures",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "7fd6b485db8da2a4af612036c6a46829",
+    "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+    "description": "The compute and memory demands of generative AI increasingly exceed what a single GPU can provide. NVIDIA TensorRT multi-device inference is a new capability...",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "902635e231f8f2f2ada33b4db9ec6e60",
+    "title": "Yandex releases 80B-parameter AI model under open license for commercial use",
+    "description": "Yandex's open AI model enhances Russian-language AI capabilities, lowering deployment costs and setting new benchmarks for industry standards.\nThe post Yandex releases 80B-parameter AI model under open license for commercial use appeared first on Crypto Brief\u2026",
+    "vader_score": -0.25,
+    "human_label": -1
+  },
+  {
+    "id": "5f75c08554a2785a9273745d9eef5186",
+    "title": "HemaViT: transformer-based deep learning for automated non-invasive anemia detection using conjunctival imaging",
+    "description": "Scientific Reports - HemaViT: transformer-based deep learning for automated non-invasive anemia detection using conjunctival imaging",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "c787e87aad1dc64f9afb94f9789fb3f6",
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers | TechCrunch",
+    "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+    "vader_score": 0.7351,
+    "human_label": 1
+  },
+  {
+    "id": "7198aa838365779387bf71a34a6a9101",
+    "title": "Ant International Unveils 100 Products to Drive Agentic Financial Operations",
+    "description": "Ant International has announced an artificial intelligence-native financial stack that includes nearly 100products across payment, account, foreign exchange, treasury and growth operations, the company said in a Friday (Sept. 18) press release. The product su\u2026",
+    "vader_score": 0.5267,
+    "human_label": 1
+  },
+  {
+    "id": "28f8f3c844a91d278fce903b56ef0191",
+    "title": "What Is ChatGPT, and What Should CX Leaders Know Now?",
+    "description": "ChatGPT is shifting from drafting replies to taking action inside CRM and support tools \u2014 CX teams need new governance now.\nContinue reading...",
+    "vader_score": 0.4019,
+    "human_label": 1
+  },
+  {
+    "id": "2ce1cef72450e3e8f6c02aa27d5e6a6f",
+    "title": "Ant International Launches Industry\u2019s First Full-Stack AI-Native Solutions for Payment, Account, FX, Treasury and Growth Operations for Global Businesses",
+    "description": "In its largest-ever product upgrade, the company unveils an industry-first AI-native, end-to-end full financial stack with close to 100 key products across 4 business pillars. Built on newly upgraded Antom 3-in-1 Transformer, our payment foundation model, and\u2026",
+    "vader_score": 0.6249,
+    "human_label": 1
+  },
+  {
+    "id": "c87ddc8b33832d8b7c49aa914cd4ae42",
+    "title": "Affirm launches transformer-based machine learning model for real-time underwriting",
+    "description": "New model builds on 14 years of transaction-level underwriting experience and data to approve more eligible consumers at comparable levels of risk SAN FRANCISCO \u2014 For 14 years, Affirm (NASDAQ: AFRM) has underwritten every purchase individually, in real time, \u2026",
+    "vader_score": -0.2732,
+    "human_label": -1
+  },
+  {
+    "id": "1e47c471bb83fef3d3c3ac8d2949c6b9",
+    "title": "Affirm launches transformer-based machine learning model for real-time underwriting",
+    "description": "Affirm's AI-driven underwriting model could redefine credit risk assessment, enhancing approval rates and margins in the BNPL industry.\nThe post Affirm launches transformer-based machine learning model for real-time underwriting appeared first on Crypto Brief\u2026",
+    "vader_score": 0.5574,
+    "human_label": 1
+  },
+  {
+    "id": "69634b5d61a376a1def1f5dae6156515",
+    "title": "Show HN: MyA11yReport MCP \u2013 Build and test accessible websites with AI",
+    "description": "Give your AI development tools (like Claude Desktop or Cursor) the ability to run WCAG accessibility audits locally and compliant code.\n\nComments URL: https://news.ycombinator.com/item?id=49850774\nPoints: 1\n# Comments: 0",
+    "vader_score": 0.3182,
+    "human_label": 1
+  },
+  {
+    "id": "8753e7d9158790ff5ba5349ee0aee809",
+    "title": "FreshBooks Empowers Solopreneurs and Small Businesses with AI Optionality, connecting with Anthropic\u2019s MCP",
+    "description": "\u201cYour Books, Your Call\u201d: Small business management software leader empowers solopreneurs the choice to bring AI into their financial workflows on their own terms. Toronto, Canada, Sept. 25, 2026 (GLOBE NEWSWIRE) \u2014 AI has impacted solopreneurs and small busine\u2026",
+    "vader_score": 0.0,
+    "human_label": 0
+  },
+  {
+    "id": "bcb4171a0abb4f06774e1686069853da",
+    "title": "This $55 AI tool saves you from asking every chatbot the same question",
+    "description": "ChatPlayground puts 20+ AI models in one interface so you can send them the same prompt, compare their answers, and decide which approach works for you.\nThe post This $55 AI tool saves you from asking every chatbot the same question appeared first on Popular \u2026",
+    "vader_score": 0.4215,
+    "human_label": 1
+  },
+  {
+    "id": "79df30c43749f35b02125afc0487a737",
+    "title": "AI can't take over your holiday shopping quite yet, a new study suggests.",
+    "description": "AI shopping assistants like ChatGPT and Gemini struggle with accuracy, says Product.ai study, highlighting high error rates in product info.",
+    "vader_score": 0.0516,
+    "human_label": 1
+  },
+  {
+    "id": "7c53ad7361b14bd47ac1a136ed1071e4",
+    "title": "ChatGPT\u306a\u3069\u306eAI\u306b\u4f01\u696d\u306e\u507d\u306e\u9023\u7d61\u5148\u3092\u51fa\u529b\u3055\u305b\u30e6\u30fc\u30b6\u30fc\u3092\u8a50\u6b3a\u3078\u3068\u5c0e\u304f\u30b5\u30a4\u30d0\u30fc\u653b\u6483\u300cDark Sourcery\u300d",
+    "description": "ChatGPT\u3084Gemini\u3068\u3044\u3063\u305fAI\u30c1\u30e3\u30c3\u30c8\u30dc\u30c3\u30c8\u306b\u3088\u308b\u51fa\u529b\u3092\u6c5a\u67d3\u3059\u308b\u305f\u3081\u306b\u3001\u60aa\u610f\u306e\u3042\u308b\u30ea\u30f3\u30af\u3084\u30c7\u30fc\u30bf\u3092\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u4e0a\u306b\u3070\u3089\u307e\u304f\u3068\u3044\u3046\u30b5\u30a4\u30d0\u30fc\u653b\u6483\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u300cDark Sourcery\u300d\u306b\u3064\u3044\u3066\u3001\u30b5\u30a4\u30d0\u30fc\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u4f01\u696d\u30fbVigilance Security\u306e\u7814\u7a76\u8005\u304c\u5831\u544a\u3057\u3066\u3044\u307e\u3059\u3002Dark Sourcery: How Hackers Manipulate AI to Scam You | by Ariel Simon | Sep, 2026 | Mediumhttps://medium.com/@ari\u2026",
+    "vader_score": -0.5719,
+    "human_label": -1
+  },
+  {
+    "id": "5fbcc7746a0de3792e3458eaeb746a74",
+    "title": "Adobe Expands What You Can Do in Gemini & Claude",
+    "description": "Adobe is bringing its creativity and productivity tools to AI chatbot platforms with the launch of the Adobe Connected App in Gemini, expanding what people can do with Adobe in Claude. Through a conversation with Gemini, you can call on tools from Photoshop, \u2026",
+    "vader_score": 0.4588,
+    "human_label": 1
+  },
+  {
+    "id": "393cb5f48a1bd97b1e8f382607d45b95",
+    "title": "Daily Hacker News for 2026-09-24",
+    "description": "The 10 highest-rated articles on\nHacker News\non September 24, 2026 which have not appeared on any previous\nHacker News Daily\nare:\n<ul>\n<li>\nTokens too cheap to meter\n(comments)\n</li>\n<li>\nI don't want the details\n(comments)\n</li>\n<li>\nGemini 3.8 text-to-speec\u2026",
+    "vader_score": -0.0572,
+    "human_label": -1
+  },
+  {
+    "id": "da578b20bf6d374a4841ed496195fe57",
+    "title": "OpenAI sets ChatGPT Pro Max subscription at $500",
+    "description": "The high cost of ChatGPT Pro Max may limit its accessibility, potentially widening the gap between casual users and enterprise-level AI utilization.\nThe post OpenAI sets ChatGPT Pro Max subscription at $500 appeared first on Crypto Briefing.",
+    "vader_score": 0.2023,
+    "human_label": 1
+  }
+]
